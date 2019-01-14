@@ -50,6 +50,7 @@ Dies soll im Endeffekt einen Empfänger erreichen. In der Zwischenzeit müssen S
 
 Daraufhin haben wir begonnen diese Idee in Snap zu verwirklichen. Angefangen mit dem Aussehen des Startbildschirms und der Levelauswahl, haben wir die Hintergründe in paint.net designt.
 
+![screenshot 2019-01-14 17 23 55](https://user-images.githubusercontent.com/42579285/51125557-35604600-1821-11e9-9ef7-ada82e5fa041.png)
 
 ## 08.01.2019 (Dritte Stunde) <a name="drei"></a> 
 
@@ -63,8 +64,8 @@ Darüber hinaus haben wir begonnen die Levelauswahl funktionstüchtig zu machen.
 
 ## 14.01.2019 (Vierte Stunde) <a name="vier"></a> 
 
-Anfangs haben wir unsere GitHub Seite auf den neusten Standgebracht und mit Screenshots vervollständigt.
-Weitergehend haben wir Sprites für die einzelnen Spiegel, Hindernisse, den Empfänder und den Sender angelegt und mit passenden Costumes ausgestattet.
+Anfangs haben wir unsere GitHub Seite auf den neusten Stand gebracht und mit Screenshots vervollständigt.
+Weitergehend haben wir Sprites für die einzelnen Spiegel, Hindernisse, den Empfänder und den Sender angelegt und teilweise mit passenden Costumes ausgestattet.
 
 ![sprites](https://user-images.githubusercontent.com/42579285/51106928-95d59000-17ed-11e9-8f96-b247adaba403.png)
 
