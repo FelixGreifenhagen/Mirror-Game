@@ -39,17 +39,27 @@
 Da dies die erste Stunde war, haben wir grundsätzlich überlegt welche Möglichkeiten wir für unser neues Projekt nutzen wollen. 
 Greenfoot und Applab fielen allerdings raus, da wir uns im letzten Halbjahr intensiv in Snap reingearbeitet hatten, somit die
 Grundfunktionen bereits gut beherrschten und ein anspruchvolleres Projekt in Angriff nehmen wollten. Dies wäre mit uns unbekannten Programmen nicht ohne sehr großen Zeitaufwand möglich gewesen.
-Weitergehend haben wir gebrainstormed, ob wir ein weiteres Spiel, etwas nützliches oder doch etwas komplett anderes programmieren wollten.
+Weitergehend haben wir gebrainstormed, ob wir ein weiteres Spiel, etwas nützliches oder doch etwas komplett anderes programmieren wollten. Überlegungen waren zum Beispiel Tetris nach zu programmieren, ein Storygame oder eine Art Spiegelspiel zu gestalten.
+
 
 ## 18.12.2018 (Zweite Stunde) <a name="zwei"></a> 
 
+Nach einigen Überlegungen haben wir uns schließlich für das Spiegelspiel entschieden. Das grobe Konzept funktioniert wie folgt:
+Zuerst wird ein Objekt aus einem "Sender" geschossen.
+Dies soll im Endeffekt einen Empfänger erreichen. In der Zwischenzeit müssen Spiegel so eingestellt werden, dass das Objekt an ihnen im korrekten Winkel abprallt und Hindernisse und ähnliches umgeht.
 
+Daraufhin haben wir begonnen diese Idee in Snap zu verwirklichen. Angefangen mit dem Aussehen des Startbildschirms und der Levelauswahl, haben wir die Hintergründe in paint.net designt.
 
 
 ## 08.01.2019 (Dritte Stunde) <a name="drei"></a> 
 
+Nachdem wir vor den Ferien schon mit den Hintergründen begonnen haben, setzen wir dies nun fort und erstellen zudem acht weitere Buttons, welche zu den jeweiligen Level führen werden.
+![level 1 buis 8](https://user-images.githubusercontent.com/42579285/51106502-40e54a00-17ec-11e9-9229-18d016eaae20.png)
 
-## 25.09.2019 (Vierte Stunde) <a name="vier"></a> 
+
+![levelauswahlscreen](https://user-images.githubusercontent.com/42579285/51105521-78062c00-17e9-11e9-870c-de237ccab67c.png)
+
+## 14.01.2019 (Vierte Stunde) <a name="vier"></a> 
 
 
 
