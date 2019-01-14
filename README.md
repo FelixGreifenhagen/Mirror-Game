@@ -22,7 +22,7 @@
 
 ### Das Grundprinzip <a name="Grundprinzip"></a>
 
-#### [Zum Arbeitstagebuch] https://github.com/LeoandTeda/-/blob/master/Arbeitstagebuch.md
+#### Zum Arbeitstagebuch https://github.com/LeoandTeda/-/blob/master/Arbeitstagebuch.md
       
 
 https://scratch.mit.edu/projects/239667020/#editor
