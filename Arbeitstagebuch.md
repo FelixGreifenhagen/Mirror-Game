@@ -53,15 +53,20 @@ Daraufhin haben wir begonnen diese Idee in Snap zu verwirklichen. Angefangen mit
 
 ## 08.01.2019 (Dritte Stunde) <a name="drei"></a> 
 
-Nachdem wir vor den Ferien schon mit den Hintergründen begonnen haben, setzen wir dies nun fort und erstellen zudem acht weitere Buttons, welche zu den jeweiligen Level führen werden.
+Nachdem wir vor den Ferien schon mit den Hintergründen begonnen haben, setzen wir dies nun fort und erstellen zudem acht weitere Buttons, welche zu den jeweiligen Level führen werden. Zu jedem dieser Buttons wurde ein Sprite mit passendem Costume angelegt. Diese haben wir im vorhinein mit Hilfe von paint.net gestaltet.
+
 ![level 1 buis 8](https://user-images.githubusercontent.com/42579285/51106502-40e54a00-17ec-11e9-9229-18d016eaae20.png)
 
+Darüber hinaus haben wir begonnen die Levelauswahl funktionstüchtig zu machen.
 
 ![levelauswahlscreen](https://user-images.githubusercontent.com/42579285/51105521-78062c00-17e9-11e9-870c-de237ccab67c.png)
 
 ## 14.01.2019 (Vierte Stunde) <a name="vier"></a> 
 
+Anfangs haben wir unsere GitHub Seite auf den neusten Standgebracht und mit Screenshots vervollständigt.
+Weitergehend haben wir Sprites für die einzelnen Spiegel, Hindernisse, den Empfänder und den Sender angelegt und mit passenden Costumes ausgestattet.
 
+![sprites](https://user-images.githubusercontent.com/42579285/51106928-95d59000-17ed-11e9-8f96-b247adaba403.png)
 
 ## 11.09.2019 (Fünfte Stunde) <a name="fünf"></a> 
 
