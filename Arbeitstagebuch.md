@@ -39,7 +39,7 @@
 Da dies die erste Stunde war, haben wir grundsätzlich überlegt welche Möglichkeiten wir für unser neues Projekt nutzen wollen. 
 Greenfoot und Applab fielen allerdings raus, da wir uns im letzten Halbjahr intensiv in Snap reingearbeitet hatten, somit die
 Grundfunktionen bereits gut beherrschten und ein anspruchvolleres Projekt in Angriff nehmen wollten. Dies wäre mit uns unbekannten Programmen nicht ohne sehr großen Zeitaufwand möglich gewesen.
-Weitergehend haben wir gebrainstormed, ob wir ein weiteres Spiel, etwas nützliches oder doch etwas komplett anderes programmieren wollten. Überlegungen waren zum Beispiel Tetris nach zu programmieren, ein Storygame oder eine Art Spiegelspiel zu gestalten.
+Weitergehend haben wir gebrainstormed, ob wir ein weiteres Spiel, etwas nützliches oder doch etwas komplett anderes programmieren wollten. Überlegungen waren zum Beispiel Tetris, "Wer wird Millionär" oder 4 Bilder- 1 Wort nach zu programmieren, ein Storygame oder eine Art Spiegelspiel zu gestalten.
 
 
 ## 18.12.2018 (Zweite Stunde) <a name="zwei"></a> 
@@ -84,8 +84,6 @@ Weitergehend haben wir Sprites für die einzelnen Spiegel, Hindernisse, den Empf
 
 
 ## 23.10.2019 (Neunte Stunde) <a name="neun"></a> 
-
-
 
 
 
