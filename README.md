@@ -1,4 +1,4 @@
-# Informatik Projekt Nr.2: The Mirror Game
+# Informatik Projekt Nr.2 : The Mirror Game
 *von Teda und Leonard, 12e*
 
 ## Inhaltsverzeichnis
@@ -18,20 +18,13 @@
 
 ## Der Aufbau <a name="Aufbau"></a>
 
+![skizzespiegelgame](https://user-images.githubusercontent.com/42579285/51129379-9c362d00-182a-11e9-9421-87373cbd7f21.png)
+
 ### Das Grundprinzip <a name="Grundprinzip"></a>
 
 #### [Zum Arbeitstagebuch] https://github.com/LeoandTeda/-/blob/master/Arbeitstagebuch.md
       
 
-
-
-# -Projektideen:
-Story game (ziemlich vie animieren)
-Tetris
-Vier gewinnt
-Wer wird Millionär?
-4 bilder 1 wort
-Fahrspiel
 https://scratch.mit.edu/projects/239667020/#editor
 
 Plan: Spiegelspiel:
