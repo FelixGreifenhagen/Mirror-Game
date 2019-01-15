@@ -71,6 +71,11 @@ Weitergehend haben wir Sprites für die einzelnen Spiegel, Hindernisse, den Empf
 
 ## 11.09.2019 (Fünfte Stunde) <a name="fünf"></a> 
 
+![sikzze level 3](https://user-images.githubusercontent.com/42579285/51190313-42913980-18e2-11e9-8c16-2893cf05c289.png)
+
+![skizze level 1](https://user-images.githubusercontent.com/42579285/51190316-44f39380-18e2-11e9-86fd-1ed3a70ea56b.png)
+
+![skizze level 2](https://user-images.githubusercontent.com/42579285/51190319-46bd5700-18e2-11e9-8107-b53f0f3c6b31.png)
 
 
 ## 17.09.2019 (Sechste Stunde) <a name="sechs"></a> 
