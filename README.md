@@ -22,7 +22,6 @@
 
 ### Das Grundprinzip <a name="Grundprinzip"></a>
 
-#### Zum Arbeitstagebuch https://github.com/LeoandTeda/-/blob/master/Arbeitstagebuch.md
       
 
 https://scratch.mit.edu/projects/239667020/#editor
@@ -45,3 +44,4 @@ Plan: Spiegelspiel:
 ![bild 2](https://user-images.githubusercontent.com/42579285/50164034-f69ea500-02e1-11e9-9303-8efe088e6e30.png)
 ![bil d3](https://user-images.githubusercontent.com/42579285/50164155-3796b980-02e2-11e9-9115-ed1e9642fe88.png)
 
+#### Zum Arbeitstagebuch (https://github.com/LeoandTeda/-/blob/master/Arbeitstagebuch.md)
