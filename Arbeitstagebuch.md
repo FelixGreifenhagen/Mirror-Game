@@ -70,22 +70,14 @@ Weitergehend haben wir Sprites für die einzelnen Spiegel, Hindernisse, den Empf
 ![sprites](https://user-images.githubusercontent.com/42579285/51106928-95d59000-17ed-11e9-8f96-b247adaba403.png)
 
 ## 15.01.2019 (Fünfte Stunde) <a name="fünf"></a> 
-
 ![skizze level 1](https://user-images.githubusercontent.com/42579285/51190316-44f39380-18e2-11e9-86fd-1ed3a70ea56b.png)
-
 ![skizze level 2](https://user-images.githubusercontent.com/42579285/51190319-46bd5700-18e2-11e9-8107-b53f0f3c6b31.png)
-
 ![sikzze level 3](https://user-images.githubusercontent.com/42579285/51190313-42913980-18e2-11e9-8c16-2893cf05c289.png)
 
 ## 21.01.2019 (Sechste Stunde) <a name="sechs"></a> 
-
-
 ![skizzelevel4](https://user-images.githubusercontent.com/42579285/51467354-a8f7db00-1d6c-11e9-9655-829da6ee67b6.png)
-
 ![skizzelevel5](https://user-images.githubusercontent.com/42579285/51467359-aac19e80-1d6c-11e9-92b1-66dea70b8e54.png)
-
 ![skizzelevel6](https://user-images.githubusercontent.com/42579285/51467362-ac8b6200-1d6c-11e9-819c-4816f76e4c4d.png)
-
 ![skizzelevel7](https://user-images.githubusercontent.com/42579285/51467366-af865280-1d6c-11e9-9b78-ad951f0c8afd.png)
 
 
