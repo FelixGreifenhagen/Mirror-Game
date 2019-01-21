@@ -7,7 +7,7 @@
 * [Spielidee](#Spielidee)
 * [Aufbau](#Aufbau)
   * [Grundprinzip](#Grundprinzip)
-* [Arbeitstagebuch](#Arbeitstagebuch) 
+* [Arbeitstagebuch](https://github.com/LeoandTeda/-/blob/master/Arbeitstagebuch.md) 
   
   ## Das Programm <a name="Programm"></a>
   
