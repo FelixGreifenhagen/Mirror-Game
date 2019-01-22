@@ -50,7 +50,8 @@ Dies soll im Endeffekt einen Empfänger erreichen. In der Zwischenzeit müssen S
 
 Daraufhin haben wir begonnen diese Idee in Snap zu verwirklichen. Angefangen mit dem Aussehen des Startbildschirms und der Levelauswahl, haben wir die Hintergründe in paint.net designt.
 
-![screenshot 2019-01-14 17 23 55](https://user-images.githubusercontent.com/42579285/51125557-35604600-1821-11e9-9ef7-ada82e5fa041.png)
+![start2](https://user-images.githubusercontent.com/42579285/51544472-4c75e800-1e60-11e9-8329-fc8c23fafac6.png)
+
 
 ## 08.01.2019 (Dritte Stunde) <a name="drei"></a> 
 
@@ -60,7 +61,8 @@ Nachdem wir vor den Ferien schon mit den Hintergründen begonnen haben, setzen w
 
 Darüber hinaus haben wir begonnen die Levelauswahl funktionstüchtig zu machen.
 
-![levelauswahlscreen](https://user-images.githubusercontent.com/42579285/51105521-78062c00-17e9-11e9-870c-de237ccab67c.png)
+![viel](https://user-images.githubusercontent.com/42579285/51544607-9a8aeb80-1e60-11e9-911f-b937c08e41e8.png)
+
 
 ## 14.01.2019 (Vierte Stunde) <a name="vier"></a> 
 
@@ -83,7 +85,7 @@ Unsere Arbeit aus der letzten Stunde haben wir heute fortgeführt und die restli
 Dabei war unser Ziel die Level möglichst mit einem steigenden Schwierigkeitsgrad zu versehen und damit eine größere Herausforderung für den Spieler  zu schaffen.
 Wir haben bisher nur sieben Level gestaltet, da wir uns das achte Level künstlerisch offen gelassen haben. Dieses sollte bestmöglichst den größten Schwierigkeitsgrad haben, um eine echte Herausforderung zu schaffen. Teda hat zudem vermerkt, dass es witzig wäre, das achte Level "unmöglich" zu machen. Diese Entscheidung halten wir uns allerdings bis kurz vor dem Ende offen.
 ![skizzelevel4](https://user-images.githubusercontent.com/42579285/51467354-a8f7db00-1d6c-11e9-9655-829da6ee67b6.png)
-![skizzelevel5](https://user-images.githubusercontent.com/42579285/51467359-aac19e80-1d6c-11e9-92b1-66dea70b8e54.png)
+![skizze5 scnon](https://user-images.githubusercontent.com/42579285/51544787-eb9adf80-1e60-11e9-98f8-5e2d265c6044.png)
 ![skizzelevel6](https://user-images.githubusercontent.com/42579285/51467362-ac8b6200-1d6c-11e9-819c-4816f76e4c4d.png)
 ![skizzelevel7](https://user-images.githubusercontent.com/42579285/51467366-af865280-1d6c-11e9-9b78-ad951f0c8afd.png)
 
