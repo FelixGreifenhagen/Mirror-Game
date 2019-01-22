@@ -70,19 +70,26 @@ Weitergehend haben wir Sprites für die einzelnen Spiegel, Hindernisse, den Empf
 ![sprites](https://user-images.githubusercontent.com/42579285/51106928-95d59000-17ed-11e9-8f96-b247adaba403.png)
 
 ## 15.01.2019 (Fünfte Stunde) <a name="fünf"></a> 
+
+Diese Stunde haben wir begonnen die verschiedenen Level Inhalte mit Hilfe von paint.net visuell darzustellen. Wie auf den Screenshots zu sehen ist, haben wir auf Details vorerst verzichtet und uns auf den groben Aufbau konzentriert. 
+Im eigentlichen Spiel sollen die Level später als unterschiedliche Themenwelten gestalltet werden. Trotzdem haben wir es für sinnvoll erachtet diese vorerst zu vernachlässigen, der Übersicht zur Liebe.
 ![skizze level 1](https://user-images.githubusercontent.com/42579285/51190316-44f39380-18e2-11e9-86fd-1ed3a70ea56b.png)
 ![skizze level 2](https://user-images.githubusercontent.com/42579285/51190319-46bd5700-18e2-11e9-8107-b53f0f3c6b31.png)
 ![sikzze level 3](https://user-images.githubusercontent.com/42579285/51190313-42913980-18e2-11e9-8c16-2893cf05c289.png)
 
 ## 21.01.2019 (Sechste Stunde) <a name="sechs"></a> 
+
+Unsere Arbeit aus der letzten Stunde haben wir heute fortgeführt und die restlichen vier Level mit einem groben Aufbau versehen.
+Dabei war unser Ziel die Level möglichst mit einem steigenden Schwierigkeitsgrad zu versehen und damit eine größere Herausforderung für den Spieler  zu schaffen.
+Wir haben bisher nur sieben Level gestaltet, da wir uns das achte Level künstlerisch offen gelassen haben. Dieses sollte bestmöglichst den größten Schwierigkeitsgrad haben, um eine echte Herausforderung zu schaffen. Teda hat zudem vermerkt, dass es witzig wäre, das achte Level "unmöglich" zu machen. Diese Entscheidung halten wir uns allerdings bis kurz vor dem Ende offen.
 ![skizzelevel4](https://user-images.githubusercontent.com/42579285/51467354-a8f7db00-1d6c-11e9-9655-829da6ee67b6.png)
 ![skizzelevel5](https://user-images.githubusercontent.com/42579285/51467359-aac19e80-1d6c-11e9-92b1-66dea70b8e54.png)
 ![skizzelevel6](https://user-images.githubusercontent.com/42579285/51467362-ac8b6200-1d6c-11e9-819c-4816f76e4c4d.png)
 ![skizzelevel7](https://user-images.githubusercontent.com/42579285/51467366-af865280-1d6c-11e9-9b78-ad951f0c8afd.png)
 
-
-
 ## 22.01.2019 (Siebte Stunde) <a name="sieben"></a> 
+
+Leo hat zu Hause angefangen sich mit den Bewegungsabläufen des "Lasers" und dem manuellen Drehen des Spiegels zu beschäftigen und dabei verschiedene mögliche Versionen ausprobiert. Dabei scheinen vor allem die für uns noch unbekannten Funktionen Pen, sowie List eine entscheidene Rolle im weiteren Verlauf dieses Projektes zu spielen.   
 
 
 ## 29.01.2019 (Achte Stunde) <a name="acht"></a> 
