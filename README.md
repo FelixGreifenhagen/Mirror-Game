@@ -16,9 +16,6 @@
   
   ## Die Spielidee <a name="Spielidee"></a>
 
-## Der Aufbau <a name="Aufbau"></a>
-
-![skizzespiegelgame](https://user-images.githubusercontent.com/42579285/51129379-9c362d00-182a-11e9-9421-87373cbd7f21.png)
 
 ### Das Grundprinzip <a name="Grundprinzip"></a>
 
@@ -28,6 +25,12 @@
    und mehr Spiegel hinzugefügt werden. 
    Bei Abschließen eines Levels wird automatisch das nächste Level gestartet.
    
+   
+   ## Der Aufbau <a name="Aufbau"></a>
+
+![skizzespiegelgame](https://user-images.githubusercontent.com/42579285/51129379-9c362d00-182a-11e9-9421-87373cbd7f21.png)
+
+
 ### Startbildschirm, Levelauswahl und Endbildschirm
    
    Das Spiel beginnt mit einem schlichten Startbildschirm, der nur den Namen des Spiels und einen Startbutton enthält.
@@ -36,8 +39,12 @@
    
    Dazu wird der folgende Block in das Script der Stage eingefügt, um alle Sprites bis auf den Startbutton zu hiden und den Background
    Startbildschirm sichtbar zu machen.
+   
    ![startbildschirmskript](https://user-images.githubusercontent.com/42579285/52284041-f62a9e00-2963-11e9-8ca8-b5e8fae46c72.png)
-
+   
+   Beim anklicken des Startbuttons wird die Größe angepasst und der Befehl "Start" gebroadcasted.
+   
+   Dies hat zur Folge, dass 
 
 https://scratch.mit.edu/projects/239667020/#editor
 
