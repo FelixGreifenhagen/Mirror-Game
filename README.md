@@ -64,7 +64,7 @@
    
    Der wohl entscheidenste Teil des Blocks ist allerdings, dass die Variable Level auf die jeweilige Zahl des Levels gesetzt wird.
    
-   Wird bei der Levelauswahl der Button coming soon geklickt, wird der Spieler zurück zum Startbildschirm 
+   Wird bei der Levelauswahl der Button coming soon geklickt, wird der Spieler zurück zum Startbildschirm geführt.
    
    
 https://scratch.mit.edu/projects/239667020/#editor
