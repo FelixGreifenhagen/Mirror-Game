@@ -44,12 +44,23 @@
    
    Beim anklicken des Startbuttons wird die Größe angepasst und der Befehl "Start" gebroadcasted.
    
-   Dies hat zur Folge, dass 
+  Im Script der Stage wird beim Empfangen dieses Befehls der Wechsel zum costume Levelauswahl angefordert.
    Die einzelnen Sprites, die mit einem passenden Level costume ausgestattet sind, empfangen ebenfalls diesen Befehl, werden sichtbar
    und ordnen sich ihre vorher bestimmte Position zu. 
    
    ![levelauswahl](https://user-images.githubusercontent.com/42579285/52294381-790a2380-2979-11e9-9fcb-4c54e333833e.png)
+   
+   ![levelscript](https://user-images.githubusercontent.com/42579285/52294887-b7541280-297a-11e9-91ed-872bf72574df.png)
+   
+   Der zweite Block wird wichtig sobald der Spieler sich für eins der Level entscheidet. Sobald ein Level Button angeklickt wird, wird
+   eine Nachricht mit dem jeweiligen Levelnamen gebroadcastet. Im Script der Stage wird der zugehörige Block aktiviert, der die
+   Levelbuttons hidet und die Spiegel, Hindernisse, den Sender und den Empfänger sichtbar werden lässt. Zusätzlich wird auch der
+   Background der Stage zu Empty geändert.
+   
+   ![levelscript2](https://user-images.githubusercontent.com/42579285/52295635-a0162480-297c-11e9-9d6b-22289dc0407f.png)
 
+   
+   
 https://scratch.mit.edu/projects/239667020/#editor
 
 Plan: Spiegelspiel:
@@ -63,8 +74,6 @@ Plan: Spiegelspiel:
   -(Verschieben)
   -Laserstrahl reflektiert
  
- ![regenbogen](https://user-images.githubusercontent.com/42579285/50080722-07b9ba00-01ed-11e9-8d04-2fd8a6d8e229.png)
 
-![bil d3](https://user-images.githubusercontent.com/42579285/50164155-3796b980-02e2-11e9-9115-ed1e9642fe88.png)
 
 #### Zum Arbeitstagebuch (https://github.com/LeoandTeda/-/blob/master/Arbeitstagebuch.md)
