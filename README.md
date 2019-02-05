@@ -22,7 +22,22 @@
 
 ### Das Grundprinzip <a name="Grundprinzip"></a>
 
-      
+   Das Grundprinzip des Mirror Games besteht darin, dass ein Laserstrahl von einem Sender ausgestrahlt wird und mit der Hilfe von 
+   Spiegeln, dessen Winkel der Spieler verstellen kann so abgelenktwird, dass der Laser auf einen Empfänger treffen kann. 
+   Das Spiel besteht aus acht Leveln. Die Schwierigkeitsstufe steigt im Verlauf des Spiels, in dem Hindernisse umgangen werden müssen
+   und mehr Spiegel hinzugefügt werden. 
+   Bei Abschließen eines Levels wird automatisch das nächste Level gestartet.
+   
+### Startbildschirm, Levelauswahl und Endbildschirm
+   
+   Das Spiel beginnt mit einem schlichten Startbildschirm, der nur den Namen des Spiels und einen Startbutton enthält.
+   
+   ![startbildschirm](https://user-images.githubusercontent.com/42579285/52284035-f3c84400-2963-11e9-9d08-2bce29d4f387.png)
+   
+   Dazu wird der folgende Block in das Script der Stage eingefügt, um alle Sprites bis auf den Startbutton zu hiden und den Background
+   Startbildschirm sichtbar zu machen.
+   ![startbildschirmskript](https://user-images.githubusercontent.com/42579285/52284041-f62a9e00-2963-11e9-8ca8-b5e8fae46c72.png)
+
 
 https://scratch.mit.edu/projects/239667020/#editor
 
