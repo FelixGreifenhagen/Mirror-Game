@@ -40,7 +40,8 @@
    Dazu wird der folgende Block in das Script der Stage eingefügt, um alle Sprites bis auf den Startbutton zu hiden und das Costume des
    Background Startbildschirm sichtbar zu machen.
    
-   ![startbildschirmskript](https://user-images.githubusercontent.com/42579285/52284041-f62a9e00-2963-11e9-8ca8-b5e8fae46c72.png)
+ ![startbildschirmskript](https://user-images.githubusercontent.com/42579285/52297876-fb96e100-2981-11e9-8181-663dbbb6b693.png)
+
    
    Beim anklicken des Startbuttons wird die Größe angepasst und der Befehl "Start" gebroadcasted.
    
@@ -65,6 +66,8 @@
    Der wohl entscheidenste Teil des Blocks ist allerdings, dass die Variable Level auf die jeweilige Zahl des Levels gesetzt wird.
    
    Wird bei der Levelauswahl der Button coming soon geklickt, wird der Spieler zurück zum Startbildschirm geführt.
+   
+   ![comingsoonscript](https://user-images.githubusercontent.com/42579285/52297989-34cf5100-2982-11e9-9a12-f108b3f36a27.png)
    
    
 https://scratch.mit.edu/projects/239667020/#editor
