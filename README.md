@@ -45,6 +45,10 @@
    Beim anklicken des Startbuttons wird die Größe angepasst und der Befehl "Start" gebroadcasted.
    
    Dies hat zur Folge, dass 
+   Die einzelnen Sprites, die mit einem passenden Level costume ausgestattet sind, empfangen ebenfalls diesen Befehl, werden sichtbar
+   und ordnen sich ihre vorher bestimmte Position zu. 
+   
+   ![levelauswahl](https://user-images.githubusercontent.com/42579285/52294381-790a2380-2979-11e9-9fcb-4c54e333833e.png)
 
 https://scratch.mit.edu/projects/239667020/#editor
 
