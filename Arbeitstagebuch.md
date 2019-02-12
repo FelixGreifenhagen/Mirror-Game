@@ -104,13 +104,14 @@ Darauf hin haben wir uns damit beschäftigt, wie es möglich ist, dass der Strah
 ## 04.02.2019 (Neunte Stunde) <a name="neun"></a> 
 
 Nach Überlegungen haben wir uns darauf geeinigt, den Spieler nach jedem erfolgreich absolvierten Level zurück zur Levelauswahl zu schicken, hauptsächlich um das "Snapsystem" nicht zu überlasten. Dies war bereits bei unserem letzten Projekt ein Problem, desshalb wollen wir bei dem jetzigen, deutlich größeren kein zusätzliches Risiko eingehen.
+Zuhause hat Teda begonnen an der Projektseite zu schreiben.
 
 
 ## 12.02.2019 (Zehnte Stunde) <a name="zehn"></a> 
 
+Diese Doppelstunde haben wir dazu genutzt den Empfänger funktiontüchtig zu machen. Hierzu haben wir mit Variablen gearbeitet, damit der Empfänger je nach Level an der gewünschten Position auftaucht. Den Rest der Stunde haben wir unsere Githhub Seite auf den neusten Stand gebracht und einen Plan für außerhalb der Schule und die nächsten Stunden entwickelt. Dieser beinhaltet das vollenden des ersten Levels und die darauf folgende Weiterleitung zu der Levelauswahl.
 
-
-## 11.02.2019 (Elfte Stunde) <a name="elf"></a> 
+## 18.02.2019 (Elfte Stunde) <a name="elf"></a> 
 
 
 
