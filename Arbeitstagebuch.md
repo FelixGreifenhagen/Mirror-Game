@@ -96,12 +96,17 @@ Leo hat zu Hause angefangen sich mit den Bewegungsabläufen des "Lasers" und dem
 
 ## 29.01.2019 (Achte Stunde) <a name="acht"></a> 
 
+Diese Stunde haben wir auf Leos Vorarbeit aufgebaut und uns hauptsächlich mit dem Laser beschäftigt.
+Hierbei haben wir die uns bis dato unbekannte Funktion des Pens zu Nutzen gemacht. Damit der Laser Strahl nicht durchgängig sichtbar ist, hatten wir die Idee einen weißen Strahl, der den farbigen Strahl gewissermaßen ausradiert, in dem er ihm mit kurzem Abstand folgt.
+Anstatt einen weiteren Laser Sprite anzulegen arbeiteten wir erneut mit der Funktion des Klonens.
+Darauf hin haben wir uns damit beschäftigt, wie es möglich ist, dass der Strahl "verschwindet" sobald er ein Hindernis oder den Rand des Spielfeldes berührt. Sobald ein Spiegel berührt wird, soll der Strahl nach dem Grundsatz "Einfallswinkel=Ausfallswinkel" von diesem Spiegel reflktiert werden. Bei Berührung des Empfängers sind wir uns noch nicht sicher, ob wir direkt das nächste Level einleiten wollen oder den Spieler zuerst zurück zur Levelauswahl zu leiten.
 
 ## 04.02.2019 (Neunte Stunde) <a name="neun"></a> 
 
+Nach Überlegungen haben wir uns darauf geeinigt, den Spieler nach jedem erfolgreich absolvierten Level zurück zur Levelauswahl zu schicken, hauptsächlich um das "Snapsystem" nicht zu überlasten. Dies war bereits bei unserem letzten Projekt ein Problem, desshalb wollen wir bei dem jetzigen, deutlich größeren kein zusätzliches Risiko eingehen.
 
 
-## 05.02.2019 (Zehnte Stunde) <a name="zehn"></a> 
+## 12.02.2019 (Zehnte Stunde) <a name="zehn"></a> 
 
 
 
