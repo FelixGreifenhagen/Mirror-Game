@@ -118,12 +118,12 @@ Dafür haben wir die Funktion "make a block" erstmals benutzt um die sehr große
 
 ![blocks](https://user-images.githubusercontent.com/42579285/53021549-bf6f8000-3459-11e9-8a46-2b1b73ad2992.png)
 
-Nun sieht unsere Stage Script Steite schon viel ordentlicher aus und ist nicht mehr so verwirredn, wie vorher:
+Nun sieht unsere Stage Script Steite nicht mehr so unordentlich aus, sondern ist viel besser zu verstehen und zugleich nicht so verwirrend:
 
 ![stage](https://user-images.githubusercontent.com/42579285/53021572-c9917e80-3459-11e9-931e-bd041e30f349.png)
 
-
-
+Danach haben wir uns damit beschäftigt unsere Levelskizzen langsam aufs wirkliche Spiel zu übertragen.
+Unser Problem besteht momentan noch dadrin, dass die Spiegel sich nicht getrennt voneinander bewegen lassen, da wir sie als Klone voneinander angelegt haben. Sollten wir für dieses Problem keine Lösung mehr finden, müssen wir die Spiegel doch als drei verschiedene Sprites anlegen, was wir aus ästhetischen Gründen eigentlich vermeiden wollten. Abgesehen davon sind nun die ersten drei Level funktionstüchtig. Allerdings noch mit einem sehr einfachen Design. Diesem wollen wir uns erst widmen, wenn alles andere einwandfrei funktioniert.  
 
 
 ## 12.02.2019 (Zwölfte Stunde) <a name="zwölf"></a> 
