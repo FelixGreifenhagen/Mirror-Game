@@ -111,8 +111,13 @@ Zuhause hat Teda begonnen an der Projektseite zu schreiben.
 
 Diese Doppelstunde haben wir dazu genutzt den Empfänger funktiontüchtig zu machen. Hierzu haben wir mit Variablen gearbeitet, damit der Empfänger je nach Level an der gewünschten Position auftaucht. Den Rest der Stunde haben wir unsere Githhub Seite auf den neusten Stand gebracht und einen Plan für außerhalb der Schule und die nächsten Stunden entwickelt. Dieser beinhaltet das vollenden des ersten Levels und die darauf folgende Weiterleitung zu der Levelauswahl.
 
-## 18.02.2019 (Elfte Stunde) <a name="elf"></a> 
+## 19.02.2019 (Elfte Stunde) <a name="elf"></a> 
 
+Angefangen haben wir diese Stunde damit ein wenig "aufzuräumen" und unsere Scripts anschaulicher zu gestallten.
+Dafür haben wir die Funktion "make a block" erstmals benutzt um die sehr großen Blöcke zusammenzufassen.
+![blocks](https://user-images.githubusercontent.com/42579285/53021549-bf6f8000-3459-11e9-8a46-2b1b73ad2992.png)
+
+![stage](https://user-images.githubusercontent.com/42579285/53021572-c9917e80-3459-11e9-931e-bd041e30f349.png)
 
 
 
