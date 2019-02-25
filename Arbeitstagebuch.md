@@ -128,6 +128,8 @@ Unser Problem besteht momentan noch dadrin, dass die Spiegel sich nicht getrennt
 
 ## 12.02.2019 (Zwölfte Stunde) <a name="zwölf"></a> 
 
+Der Anfang dieser Stunde wurde für organisatorische Absprechen genutzt, bezüglich des Abgabetermins für dieses Projekt.
+Heute haben wir uns mit dem Problem beschäftigt, dass der weiße Laserstrahl, der dem Hauptstrahl folgt auf dem Background der Levelauswahl sichtbar bleibt, sobald sich der Spieler dazu entscheidet das Spiel zu beenden, nachdem der Laserstrahl gegen einen Rand gekommen ist. Auf den Hinweis von Herrn Buhl hin haben wir begonnen Lösungswege auszutesten, die entweder den weißen Strahl auslöschen bei 
 
 ## 18.02.2019 (Dreizehnte Stunde) <a name="dreizehn"></a> 
 
