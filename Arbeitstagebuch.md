@@ -126,12 +126,13 @@ Danach haben wir uns damit beschäftigt unsere Levelskizzen langsam aufs wirklic
 Unser Problem besteht momentan noch dadrin, dass die Spiegel sich nicht getrennt voneinander bewegen lassen, da wir sie als Klone voneinander angelegt haben. Sollten wir für dieses Problem keine Lösung mehr finden, müssen wir die Spiegel doch als drei verschiedene Sprites anlegen, was wir aus ästhetischen Gründen eigentlich vermeiden wollten. Abgesehen davon sind nun die ersten drei Level funktionstüchtig. Allerdings noch mit einem sehr einfachen Design. Diesem wollen wir uns erst widmen, wenn alles andere einwandfrei funktioniert.  
 
 
-## 12.02.2019 (Zwölfte Stunde) <a name="zwölf"></a> 
+## 25.02.2019 (Zwölfte Stunde) <a name="zwölf"></a> 
 
 Der Anfang dieser Stunde wurde für organisatorische Absprechen genutzt, bezüglich des Abgabetermins für dieses Projekt.
-Heute haben wir uns mit dem Problem beschäftigt, dass der weiße Laserstrahl, der dem Hauptstrahl folgt auf dem Background der Levelauswahl sichtbar bleibt, sobald sich der Spieler dazu entscheidet das Spiel zu beenden, nachdem der Laserstrahl gegen einen Rand gekommen ist. Auf den Hinweis von Herrn Buhl hin haben wir begonnen Lösungswege auszutesten, die entweder den weißen Strahl auslöschen bei 
+Heute haben wir uns mit dem Problem beschäftigt, dass der weiße Laserstrahl, der dem Hauptstrahl folgt auf dem Background der Levelauswahl sichtbar bleibt, sobald sich der Spieler dazu entscheidet das Spiel zu beenden, nachdem der Laserstrahl gegen einen Rand gekommen ist. Auf den Hinweis von Herrn Buhl hin haben wir begonnen Lösungswege auszutesten, die entweder den weißen Strahl auslöschen sobald der rote Srahl die Wand berührt, oder den weißen Srahl nur auf der Levelauswahl mit farbigen Hintergrund "hided".
 
-## 18.02.2019 (Dreizehnte Stunde) <a name="dreizehn"></a> 
+## 26.02.2019 (Dreizehnte Stunde) <a name="dreizehn"></a> 
+
 
 
 ## 19.02.2019 (Vierzehnte Stunde) <a name="vierzehn"></a> 
