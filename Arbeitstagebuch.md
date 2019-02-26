@@ -130,11 +130,13 @@ Unser Problem besteht momentan noch dadrin, dass die Spiegel sich nicht getrennt
 ## 25.02.2019 (Zwölfte Stunde) <a name="zwölf"></a> 
 
 Der Anfang dieser Stunde wurde für organisatorische Absprechen genutzt, bezüglich des Abgabetermins für dieses Projekt.
-Heute haben wir uns mit dem Problem beschäftigt, dass der weiße Laserstrahl, der dem Hauptstrahl folgt auf dem Background der Levelauswahl sichtbar bleibt, sobald sich der Spieler dazu entscheidet das Spiel zu beenden, nachdem der Laserstrahl gegen einen Rand gekommen ist. Auf den Hinweis von Herrn Buhl hin haben wir begonnen Lösungswege auszutesten, die entweder den weißen Strahl auslöschen sobald der rote Srahl die Wand berührt, oder den weißen Srahl nur auf der Levelauswahl mit farbigen Hintergrund "hided".
+Heute haben wir uns mit dem Problem beschäftigt, dass der weiße Laserstrahl, der dem Hauptstrahl folgt auf dem Background der Levelauswahl sichtbar bleibt, sobald sich der Spieler dazu entscheidet das Spiel zu beenden, nachdem der Laserstrahl gegen einen Rand gekommen ist. Auf den Hinweis von Herrn Buhl hin haben wir begonnen Lösungswege auszutesten, die entweder den weißen Strahl auslöschen sobald der rote Strahl die Wand berührt, oder den weißen Strahl nur auf der Levelauswahl mit farbigen Hintergrund "hided".
 
 ## 26.02.2019 (Dreizehnte Stunde) <a name="dreizehn"></a> 
 
+Angefangen haben wir diese Stunde mit dem Hinzufügen eines Menu-Knopfs, welcher einen innerhalb eines Levels durch das Anklicken wieder zurück zum Menu bringt. Dadurch müssen wir auch nicht mehr so häufig die grüne Fahne benutzen, welche am Anfang noch sehr häufig zum Einsatz gekommen ist. Außerdem haben wir uns mit dem Problem aus der letzten Stunde erneut auseinandergesetzt. Dabei sind wir leider noch nicht zu einem zufriedenstellenden Zustand gekommen. Diesem Problem werden wir trotzdem weiter nachgehen und versuchen es schlussendlich zu lösen.
 
+Des Weiteren haben wir an unserem Arbeitstagebuch gearbeitet und uns dabei am hervorragenden Tagebuch von Tom Strobeck und Felix Herrmann inspiriert, welches neben einem Inhaltsverzeichnis auch noch eine To-Do-Liste und eine Ausklapp Funktion, welche durch das Anklicken genauere Informationen über die jeweilige Stunden bietet. Dies hat uns sehr angetan und werden dies nun auch in unseren Stundenblog integrieren.
 
 ## 19.02.2019 (Vierzehnte Stunde) <a name="vierzehn"></a> 
 
