@@ -116,7 +116,8 @@ Diese Doppelstunde haben wir dazu genutzt den Empfänger funktiontüchtig zu mac
 Angefangen haben wir diese Stunde damit ein wenig "aufzuräumen" und unsere Scripts anschaulicher zu gestalten.
 Dafür haben wir die Funktion "make a block" erstmals benutzt um die sehr großen Blöcke, welche nur aus einfachen Control Befehlen bestanden, zusammenzufassen.
 
-![blocks](https://user-images.githubusercontent.com/42579285/53021549-bf6f8000-3459-11e9-8a46-2b1b73ad2992.png)
+![blocks](https://user-images.githubusercontent.com/42579285/53021549-bf6f8000-3459-11e9-8a46-2b1b73ad2992.png) ![level 1ausgeklappt](https://user-images.githubusercontent.com/42579285/53421956-db859b00-39de-11e9-8835-48f4b0d7650b.png)
+
 
 Nun sieht unsere Stage Script Steite nicht mehr so unordentlich aus, sondern ist viel besser zu verstehen und zugleich nicht so verwirrend:
 
