@@ -52,7 +52,7 @@ Weitergehend haben wir gebrainstormed, ob wir ein weiteres Spiel, etwas nützlic
 
 ## 18.12.2018 (Zweite Stunde) <a name="zwei"></a> 
 
-*   Entscheidung für "Spiegelspiel" geroffen
+*   Entscheidung für "Spiegelspiel" getroffen
 *   Angefangen Hintergründe etc. zu gestalten
     
 <details>
@@ -87,9 +87,9 @@ Darüber hinaus haben wir begonnen die Levelauswahl funktionstüchtig zu machen.
 
 ## 14.01.2019 (Vierte Stunde) <a name="vier"></a> 
 
-*   GitHub Seite 
+*   GitHub Seite bearbeitet
 *   Sprites angelegt
-*   Costumes suchen
+*   Costumes gesuchen
 <details>
   <summary>Genauer</summary>
 Anfangs haben wir unsere GitHub Seite auf den neusten Stand gebracht und mit Screenshots vervollständigt.
@@ -115,6 +115,7 @@ Im eigentlichen Spiel sollen die Level später als unterschiedliche Themenwelten
 ![sikzze level 3](https://user-images.githubusercontent.com/42579285/51190313-42913980-18e2-11e9-8c16-2893cf05c289.png)
 
 </details> <hr>
+
 ## 21.01.2019 (Sechste Stunde) <a name="sechs"></a> 
 
 *   Leveldesign Skizzen angefertigt
@@ -137,7 +138,7 @@ Wir haben bisher nur sieben Level gestaltet, da wir uns das achte Level künstle
 
 ![skizzelevel7](https://user-images.githubusercontent.com/42579285/51467366-af865280-1d6c-11e9-9b78-ad951f0c8afd.png)
 
-</details>
+</details> <hr>
 
 ## 22.01.2019 (Siebte Stunde) <a name="sieben"></a> 
 
@@ -145,7 +146,7 @@ Wir haben bisher nur sieben Level gestaltet, da wir uns das achte Level künstle
 <details>
   <summary>Skizzen</summary> 
 Leo hat zu Hause angefangen sich mit den Bewegungsabläufen des "Lasers" und dem manuellen Drehen des Spiegels zu beschäftigen und dabei verschiedene mögliche Versionen ausprobiert. Dabei scheinen vor allem die für uns noch unbekannten Funktionen Pen, sowie List eine entscheidene Rolle im weiteren Verlauf dieses Projektes zu spielen.   
-</details>
+</details> <hr>
 
 ## 29.01.2019 (Achte Stunde) <a name="acht"></a> 
 
@@ -153,17 +154,19 @@ Diese Stunde haben wir auf Leos Vorarbeit aufgebaut und uns hauptsächlich mit d
 Hierbei haben wir die uns bis dato unbekannte Funktion des Pens zu Nutzen gemacht. Damit der Laser Strahl nicht durchgängig sichtbar ist, hatten wir die Idee einen weißen Strahl, der den farbigen Strahl gewissermaßen ausradiert, in dem er ihm mit kurzem Abstand folgt.
 Anstatt einen weiteren Laser Sprite anzulegen arbeiteten wir erneut mit der Funktion des Klonens.
 Darauf hin haben wir uns damit beschäftigt, wie es möglich ist, dass der Strahl "verschwindet" sobald er ein Hindernis oder den Rand des Spielfeldes berührt. Sobald ein Spiegel berührt wird, soll der Strahl nach dem Grundsatz "Einfallswinkel=Ausfallswinkel" von diesem Spiegel reflktiert werden. Bei Berührung des Empfängers sind wir uns noch nicht sicher, ob wir direkt das nächste Level einleiten wollen oder den Spieler zuerst zurück zur Levelauswahl zu leiten.
-</details>
+</details> <hr>
+
 ## 04.02.2019 (Neunte Stunde) <a name="neun"></a> 
 
 Nach Überlegungen haben wir uns darauf geeinigt, den Spieler nach jedem erfolgreich absolvierten Level zurück zur Levelauswahl zu schicken, hauptsächlich um das "Snapsystem" nicht zu überlasten. Dies war bereits bei unserem letzten Projekt ein Problem, desshalb wollen wir bei dem jetzigen, deutlich größeren kein zusätzliches Risiko eingehen.
 Zuhause hat Teda begonnen an der Projektseite zu schreiben.
-</details>
+</details> <hr>
 
 ## 12.02.2019 (Zehnte Stunde) <a name="zehn"></a> 
 
 Diese Doppelstunde haben wir dazu genutzt den Empfänger funktiontüchtig zu machen. Hierzu haben wir mit Variablen gearbeitet, damit der Empfänger je nach Level an der gewünschten Position auftaucht. Den Rest der Stunde haben wir unsere Githhub Seite auf den neusten Stand gebracht und einen Plan für außerhalb der Schule und die nächsten Stunden entwickelt. Dieser beinhaltet das vollenden des ersten Levels und die darauf folgende Weiterleitung zu der Levelauswahl.
-</details>
+</details> <hr>
+
 ## 19.02.2019 (Elfte Stunde) <a name="elf"></a> 
 
 Angefangen haben wir diese Stunde damit ein wenig "aufzuräumen" und unsere Scripts anschaulicher zu gestalten.
@@ -178,27 +181,30 @@ Nun sieht unsere Stage Script Steite nicht mehr so unordentlich aus, sondern ist
 
 Danach haben wir uns damit beschäftigt unsere Levelskizzen langsam aufs wirkliche Spiel zu übertragen.
 Unser Problem besteht momentan noch dadrin, dass die Spiegel sich nicht getrennt voneinander bewegen lassen, da wir sie als Klone voneinander angelegt haben. Sollten wir für dieses Problem keine Lösung mehr finden, müssen wir die Spiegel doch als drei verschiedene Sprites anlegen, was wir aus ästhetischen Gründen eigentlich vermeiden wollten. Abgesehen davon sind nun die ersten drei Level funktionstüchtig. Allerdings noch mit einem sehr einfachen Design. Diesem wollen wir uns erst widmen, wenn alles andere einwandfrei funktioniert.  
-</details>
+</details> <hr>
 
 ## 25.02.2019 (Zwölfte Stunde) <a name="zwölf"></a> 
 
 Der Anfang dieser Stunde wurde für organisatorische Absprechen genutzt, bezüglich des Abgabetermins für dieses Projekt.
 Heute haben wir uns mit dem Problem beschäftigt, dass der weiße Laserstrahl, der dem Hauptstrahl folgt auf dem Background der Levelauswahl sichtbar bleibt, sobald sich der Spieler dazu entscheidet das Spiel zu beenden, nachdem der Laserstrahl gegen einen Rand gekommen ist. Auf den Hinweis von Herrn Buhl hin haben wir begonnen Lösungswege auszutesten, die entweder den weißen Strahl auslöschen sobald der rote Strahl die Wand berührt, oder den weißen Strahl nur auf der Levelauswahl mit farbigen Hintergrund "hided".
-</details>
+</details> <hr>
+
 ## 26.02.2019 (Dreizehnte Stunde) <a name="dreizehn"></a> 
 
 Angefangen haben wir diese Stunde mit dem Hinzufügen eines Menu-Knopfs, welcher einen innerhalb eines Levels durch das Anklicken wieder zurück zum Menu bringt. Dadurch müssen wir auch nicht mehr so häufig die grüne Fahne benutzen, welche am Anfang noch sehr häufig zum Einsatz gekommen ist. Außerdem haben wir uns mit dem Problem aus der letzten Stunde erneut auseinandergesetzt. Dabei sind wir leider noch nicht zu einem zufriedenstellenden Zustand gekommen. Diesem Problem werden wir trotzdem weiter nachgehen und versuchen es schlussendlich zu lösen.
 
 Des Weiteren haben wir an unserem Arbeitstagebuch gearbeitet und uns dabei am hervorragenden Tagebuch von Tom Strobeck und Felix Herrmann inspiriert, welches neben einem Inhaltsverzeichnis auch noch eine To-Do-Liste und eine Ausklapp Funktion, welche durch das Anklicken genauere Informationen über die jeweilige Stunden bietet. Dies hat uns sehr angetan und werden dies nun auch in unseren Stundenblog integrieren.
-</details>
+</details> <hr>
+
 ## 04.03.2019 (Vierzehnte Stunde) <a name="vierzehn"></a> 
+
 *   Sprite für Anleitung angelegt
 <details>
   <summary>Genauer</summary>
 Leo hat zuhause einen unserer gravierensten Fehler lösen können. Bislang bestand immer das Problem, dass sich nur einer der Spiegel frei bewegen lassen konnte, da die Spiegel Klone von einander waren. Die Grundidee war von anfang an korrekt, doch hat eine falsche Variable dazu geführt, dass das Endergebnis nicht funktionstüchtig war.
 Diese falsche Variable wurde gefunden und ausgetauscht. Nun lassen sich alle Spiegel unabhängig voneinander vom Spieler bewegen.
 Weitergehend haben wir in der Stunde einen neuen Sprite angelegt, um dem Spieler Zugang zu einer kurzen Spielanleitung zu ermöglichen. Diese muss noch geschrieben und mit Hilfe von Paint gestaltet werden. 
- </details>
+ </details> <hr>
 
 ## 25.02.2019 (Fünfzehnte Stunde) <a name="fünfzehn"></a> 
 
