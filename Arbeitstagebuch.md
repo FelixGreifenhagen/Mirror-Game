@@ -52,8 +52,8 @@ Weitergehend haben wir gebrainstormed, ob wir ein weiteres Spiel, etwas nützlic
 
 ## 18.12.2018 (Zweite Stunde) <a name="zwei"></a> 
 
-*   Entscheidung für "Spiegelspiel" getroffen
-*   Angefangen Hintergründe etc. zu gestalten
+*   Entscheidung für "Spiegelspiel" 
+*   Gestaltung von Hintergründen begonnen
     
 <details>
   <summary>Genauer</summary> 
@@ -69,8 +69,8 @@ Daraufhin haben wir begonnen diese Idee in Snap zu verwirklichen. Angefangen mit
 
 ## 08.01.2019 (Dritte Stunde) <a name="drei"></a> 
 
-*   Levelbuttons gestaltet
-*   Sprites angelegt
+*   Gestaltung der Levelbuttons
+*   Anlegen von Sprites
 
 <details>
   <summary>Genauer</summary> 
@@ -87,9 +87,9 @@ Darüber hinaus haben wir begonnen die Levelauswahl funktionstüchtig zu machen.
 
 ## 14.01.2019 (Vierte Stunde) <a name="vier"></a> 
 
-*   GitHub Seite bearbeitet
-*   Sprites angelegt
-*   Costumes gesuchen
+*   Bearbeitung der GitHub Seite 
+*   Anlegen von Sprites
+*   Suche nach Costumes
 <details>
   <summary>Genauer</summary>
 Anfangs haben wir unsere GitHub Seite auf den neusten Stand gebracht und mit Screenshots vervollständigt.
@@ -100,7 +100,7 @@ Weitergehend haben wir Sprites für die einzelnen Spiegel, Hindernisse, den Empf
 
 ## 15.01.2019 (Fünfte Stunde) <a name="fünf"></a> 
 
-*   Leveldesign Skizzen angefertigt
+*   Anfertigung von Leveldesign Skizzen
 
 <details>
   <summary>Genauer</summary>
@@ -121,7 +121,7 @@ Im eigentlichen Spiel sollen die Level später als unterschiedliche Themenwelten
 
 ## 21.01.2019 (Sechste Stunde) <a name="sechs"></a> 
 
-*   Leveldesign Skizzen angefertigt
+*   Anfertigung von Leveldesign Skizzen 
 
 <details>
   <summary>Genauer</summary> 
@@ -146,6 +146,8 @@ Wir haben bisher nur sieben Level gestaltet, da wir uns das achte Level künstle
 ## 22.01.2019 (Siebte Stunde) <a name="sieben"></a> 
 
 * 
+* Bearbeitung der GitHub Seite
+
 <details>
   <summary>Skizzen</summary> 
 Leo hat zu Hause angefangen sich mit den Bewegungsabläufen des "Lasers" und dem manuellen Drehen des Spiegels zu beschäftigen und dabei verschiedene mögliche Versionen ausprobiert. Dabei scheinen vor allem die für uns noch unbekannten Funktionen Pen, sowie List eine entscheidene Rolle im weiteren Verlauf dieses Projektes zu spielen.   
@@ -178,6 +180,9 @@ Diese Doppelstunde haben wir dazu genutzt den Empfänger funktiontüchtig zu mac
 
 ## 19.02.2019 (Elfte Stunde) <a name="elf"></a> 
 
+*   unübersichtlicher Scripts zusammengefasst
+*   Übertragung 
+
 <details>
   <summary>Genauer</summary>
 Angefangen haben wir diese Stunde damit ein wenig "aufzuräumen" und unsere Scripts anschaulicher zu gestalten.
@@ -196,6 +201,9 @@ Unser Problem besteht momentan noch dadrin, dass die Spiegel sich nicht getrennt
 
 ## 25.02.2019 (Zwölfte Stunde) <a name="zwölf"></a> 
 
+*   Organisatorische Besprechung 
+*   Problem mit dem Laser gewidmet
+
 <details>
   <summary>Genauer</summary>
 Der Anfang dieser Stunde wurde für organisatorische Absprechen genutzt, bezüglich des Abgabetermins für dieses Projekt.
@@ -203,6 +211,9 @@ Heute haben wir uns mit dem Problem beschäftigt, dass der weiße Laserstrahl, d
 </details> <hr>
 
 ## 26.02.2019 (Dreizehnte Stunde) <a name="dreizehn"></a> 
+
+*   Menu-Knopf hinzugefügt
+*   Inspiration zur Gestalltung des Arbeitstagebuchs geholt
 
 <details>
   <summary>Genauer</summary>
@@ -214,6 +225,7 @@ Des Weiteren haben wir an unserem Arbeitstagebuch gearbeitet und uns dabei am he
 ## 04.03.2019 (Vierzehnte Stunde) <a name="vierzehn"></a> 
 
 *   Sprite für Anleitung angelegt
+
 <details>
   <summary>Genauer</summary>
 Leo hat zuhause einen unserer gravierensten Fehler lösen können. Bislang bestand immer das Problem, dass sich nur einer der Spiegel frei bewegen lassen konnte, da die Spiegel Klone von einander waren. Die Grundidee war von anfang an korrekt, doch hat eine falsche Variable dazu geführt, dass das Endergebnis nicht funktionstüchtig war.
