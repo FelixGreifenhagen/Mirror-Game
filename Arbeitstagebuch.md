@@ -139,12 +139,13 @@ Angefangen haben wir diese Stunde mit dem Hinzufügen eines Menu-Knopfs, welcher
 Des Weiteren haben wir an unserem Arbeitstagebuch gearbeitet und uns dabei am hervorragenden Tagebuch von Tom Strobeck und Felix Herrmann inspiriert, welches neben einem Inhaltsverzeichnis auch noch eine To-Do-Liste und eine Ausklapp Funktion, welche durch das Anklicken genauere Informationen über die jeweilige Stunden bietet. Dies hat uns sehr angetan und werden dies nun auch in unseren Stundenblog integrieren.
 
 ## 04.03.2019 (Vierzehnte Stunde) <a name="vierzehn"></a> 
-
+Mal schaun
+<details>
+  <summary>Genauer</summary>
 Leo hat zuhause einen unserer gravierensten Fehler lösen können. Bislang bestand immer das Problem, dass sich nur einer der Spiegel frei bewegen lassen konnte, da die Spiegel Klone von einander waren. Die Grundidee war von anfang an korrekt, doch hat eine falsche Variable dazu geführt, dass das Endergebnis nicht funktionstüchtig war.
 Diese falsche Variable wurde gefunden und ausgetauscht. Nun lassen sich alle Spiegel unabhängig voneinander vom Spieler bewegen.
-Weitergehend haben wir in der Stunde einen neuen Sprite angelegt, um dem Spieler Zugang zu einer kurzen Spielanleitung zu ermöglichen. Der Sprite "Hilfe!
-
-
+Weitergehend haben wir in der Stunde einen neuen Sprite angelegt, um dem Spieler Zugang zu einer kurzen Spielanleitung zu ermöglichen. Diese muss noch geschrieben und mit Hilfe von Paint gestaltet werden. 
+ </details>
 
 ## 25.02.2019 (Fünfzehnte Stunde) <a name="fünfzehn"></a> 
 
