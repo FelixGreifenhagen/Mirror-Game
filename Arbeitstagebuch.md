@@ -97,6 +97,7 @@ Weitergehend haben wir Sprites für die einzelnen Spiegel, Hindernisse, den Empf
 
 ![sprites](https://user-images.githubusercontent.com/42579285/51106928-95d59000-17ed-11e9-8f96-b247adaba403.png)
 </details> <hr>
+
 ## 15.01.2019 (Fünfte Stunde) <a name="fünf"></a> 
 
 Diese Stunde haben wir begonnen die verschiedenen Level Inhalte mit Hilfe von paint.net visuell darzustellen. Wie auf den Screenshots zu sehen ist, haben wir auf Details vorerst verzichtet und uns auf den groben Aufbau konzentriert. 
@@ -118,10 +119,15 @@ Wir haben bisher nur sieben Level gestaltet, da wir uns das achte Level künstle
 
 <details>
   <summary>Skizzen</summary> 
+    
 ![skizzelevel4](https://user-images.githubusercontent.com/42579285/51467354-a8f7db00-1d6c-11e9-9655-829da6ee67b6.png)
+    
 ![skizze5 scnon](https://user-images.githubusercontent.com/42579285/51544787-eb9adf80-1e60-11e9-98f8-5e2d265c6044.png)
+
 ![skizzelevel6](https://user-images.githubusercontent.com/42579285/51467362-ac8b6200-1d6c-11e9-819c-4816f76e4c4d.png)
+
 ![skizzelevel7](https://user-images.githubusercontent.com/42579285/51467366-af865280-1d6c-11e9-9b78-ad951f0c8afd.png)
+
 </details>
 
 ## 22.01.2019 (Siebte Stunde) <a name="sieben"></a> 
