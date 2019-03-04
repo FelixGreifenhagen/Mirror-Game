@@ -68,7 +68,7 @@ Daraufhin haben wir begonnen diese Idee in Snap zu verwirklichen. Angefangen mit
   <summary>Screenshot</summary>
   
 ![start2](https://user-images.githubusercontent.com/42579285/51544472-4c75e800-1e60-11e9-8329-fc8c23fafac6.png)
-  <details>  <hr>
+ <hr>
  
 
 ## 08.01.2019 (Dritte Stunde) <a name="drei"></a> 
@@ -92,8 +92,10 @@ Darüber hinaus haben wir begonnen die Levelauswahl funktionstüchtig zu machen.
 <hr>
 
 ## 14.01.2019 (Vierte Stunde) <a name="vier"></a> 
+
 *   GitHub Seite 
-*   
+*   Sprites angelegt
+*   Costumes suchen
 <details>
   <summary>Genauer</summary>
 Anfangs haben wir unsere GitHub Seite auf den neusten Stand gebracht und mit Screenshots vervollständigt.
