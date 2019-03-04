@@ -77,7 +77,6 @@ Daraufhin haben wir begonnen diese Idee in Snap zu verwirklichen. Angefangen mit
   <summary>Genauer</summary> 
 
 Nachdem wir vor den Ferien schon mit den Hintergründen begonnen haben, setzen wir dies nun fort und erstellen zudem acht weitere Buttons, welche zu den jeweiligen Level führen werden. Zu jedem dieser Buttons wurde ein Sprite mit passendem Costume angelegt. Diese haben wir im vorhinein mit Hilfe von paint.net gestaltet.
-<details>
     
  <details>
   <summary>Screenshot</summary>    
@@ -90,7 +89,7 @@ Darüber hinaus haben wir begonnen die Levelauswahl funktionstüchtig zu machen.
      
 ![viel](https://user-images.githubusercontent.com/42579285/51544607-9a8aeb80-1e60-11e9-911f-b937c08e41e8.png)
 
-<details>  <hr>
+<hr>
 
 ## 14.01.2019 (Vierte Stunde) <a name="vier"></a> 
 
