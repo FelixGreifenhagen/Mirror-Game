@@ -92,7 +92,10 @@ Darüber hinaus haben wir begonnen die Levelauswahl funktionstüchtig zu machen.
 <hr>
 
 ## 14.01.2019 (Vierte Stunde) <a name="vier"></a> 
-
+*   GitHub Seite 
+*   
+<details>
+  <summary>Genauer</summary>
 Anfangs haben wir unsere GitHub Seite auf den neusten Stand gebracht und mit Screenshots vervollständigt.
 Weitergehend haben wir Sprites für die einzelnen Spiegel, Hindernisse, den Empfänder und den Sender angelegt und teilweise mit passenden Costumes ausgestattet. Hierbei haben wir versucht das erste Level im Stil einer Märchenwelt zu gestalten. Der Sender wird dabei durch einen Kobold und der Empfänger durch einen Kessel dargestellt. 
 
