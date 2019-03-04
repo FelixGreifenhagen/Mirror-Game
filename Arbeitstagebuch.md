@@ -63,7 +63,6 @@ Dies soll im Endeffekt einen Empfänger erreichen. In der Zwischenzeit müssen S
 
 Daraufhin haben wir begonnen diese Idee in Snap zu verwirklichen. Angefangen mit dem Aussehen des Startbildschirms und der Levelauswahl, haben wir die Hintergründe in paint.net designt.
 
-<details>
   <summary>Screenshot</summary>
   
 ![start2](https://user-images.githubusercontent.com/42579285/51544472-4c75e800-1e60-11e9-8329-fc8c23fafac6.png)
