@@ -46,7 +46,7 @@ Da dies die erste Stunde war, haben wir grundsätzlich überlegt welche Möglich
 Greenfoot und Applab fielen allerdings raus, da wir uns im letzten Halbjahr intensiv in Snap reingearbeitet hatten, somit die
 Grundfunktionen bereits gut beherrschten und ein anspruchvolleres Projekt in Angriff nehmen wollten. Dies wäre mit uns unbekannten Programmen nicht ohne sehr großen Zeitaufwand möglich gewesen.
 Weitergehend haben wir gebrainstormed, ob wir ein weiteres Spiel, etwas nützliches oder doch etwas komplett anderes programmieren wollten. Überlegungen waren zum Beispiel Tetris, "Wer wird Millionär" oder 4 Bilder- 1 Wort nach zu programmieren, ein Storygame oder eine Art Spiegelspiel zu gestalten.
-     <hr>
+   </details>  <hr>
   
 
 
@@ -64,7 +64,7 @@ Dies soll im Endeffekt einen Empfänger erreichen. In der Zwischenzeit müssen S
 Daraufhin haben wir begonnen diese Idee in Snap zu verwirklichen. Angefangen mit dem Aussehen des Startbildschirms und der Levelauswahl, haben wir die Hintergründe in paint.net designt.
 
 ![start2](https://user-images.githubusercontent.com/42579285/51544472-4c75e800-1e60-11e9-8329-fc8c23fafac6.png)
- <hr>
+</details> <hr>
  
 
 ## 08.01.2019 (Dritte Stunde) <a name="drei"></a> 
@@ -80,7 +80,7 @@ Darüber hinaus haben wir begonnen die Levelauswahl funktionstüchtig zu machen.
 
 ![viel](https://user-images.githubusercontent.com/42579285/51544607-9a8aeb80-1e60-11e9-911f-b937c08e41e8.png)
 
-<hr>
+</details> <hr>
 
 ## 14.01.2019 (Vierte Stunde) <a name="vier"></a> 
 
@@ -93,7 +93,7 @@ Anfangs haben wir unsere GitHub Seite auf den neusten Stand gebracht und mit Scr
 Weitergehend haben wir Sprites für die einzelnen Spiegel, Hindernisse, den Empfänder und den Sender angelegt und teilweise mit passenden Costumes ausgestattet. Hierbei haben wir versucht das erste Level im Stil einer Märchenwelt zu gestalten. Der Sender wird dabei durch einen Kobold und der Empfänger durch einen Kessel dargestellt. 
 
 ![sprites](https://user-images.githubusercontent.com/42579285/51106928-95d59000-17ed-11e9-8f96-b247adaba403.png)
-
+</details> <hr>
 ## 15.01.2019 (Fünfte Stunde) <a name="fünf"></a> 
 
 Diese Stunde haben wir begonnen die verschiedenen Level Inhalte mit Hilfe von paint.net visuell darzustellen. Wie auf den Screenshots zu sehen ist, haben wir auf Details vorerst verzichtet und uns auf den groben Aufbau konzentriert. 
