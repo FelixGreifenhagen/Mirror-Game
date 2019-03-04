@@ -99,6 +99,9 @@ Weitergehend haben wir Sprites für die einzelnen Spiegel, Hindernisse, den Empf
 </details> <hr>
 
 ## 15.01.2019 (Fünfte Stunde) <a name="fünf"></a> 
+
+*   Leveldesign Skizzen angefertigt
+
 <details>
   <summary>Genauer</summary>
 Diese Stunde haben wir begonnen die verschiedenen Level Inhalte mit Hilfe von paint.net visuell darzustellen. Wie auf den Screenshots zu sehen ist, haben wir auf Details vorerst verzichtet und uns auf den groben Aufbau konzentriert. 
@@ -106,7 +109,7 @@ Im eigentlichen Spiel sollen die Level später als unterschiedliche Themenwelten
 </details>
 
 <details>
-  <summary>Genauer</summary>
+  <summary>Skizzen</summary>
     
 ![skizze level 1](https://user-images.githubusercontent.com/42579285/51190316-44f39380-18e2-11e9-86fd-1ed3a70ea56b.png)
 
@@ -149,7 +152,9 @@ Leo hat zu Hause angefangen sich mit den Bewegungsabläufen des "Lasers" und dem
 </details> <hr>
 
 ## 29.01.2019 (Achte Stunde) <a name="acht"></a> 
-
+*   
+<details>
+  <summary>Genauer</summary>
 Diese Stunde haben wir auf Leos Vorarbeit aufgebaut und uns hauptsächlich mit dem Laser beschäftigt.
 Hierbei haben wir die uns bis dato unbekannte Funktion des Pens zu Nutzen gemacht. Damit der Laser Strahl nicht durchgängig sichtbar ist, hatten wir die Idee einen weißen Strahl, der den farbigen Strahl gewissermaßen ausradiert, in dem er ihm mit kurzem Abstand folgt.
 Anstatt einen weiteren Laser Sprite anzulegen arbeiteten wir erneut mit der Funktion des Klonens.
@@ -158,17 +163,23 @@ Darauf hin haben wir uns damit beschäftigt, wie es möglich ist, dass der Strah
 
 ## 04.02.2019 (Neunte Stunde) <a name="neun"></a> 
 
+<details>
+  <summary>Genauer</summary>
 Nach Überlegungen haben wir uns darauf geeinigt, den Spieler nach jedem erfolgreich absolvierten Level zurück zur Levelauswahl zu schicken, hauptsächlich um das "Snapsystem" nicht zu überlasten. Dies war bereits bei unserem letzten Projekt ein Problem, desshalb wollen wir bei dem jetzigen, deutlich größeren kein zusätzliches Risiko eingehen.
 Zuhause hat Teda begonnen an der Projektseite zu schreiben.
 </details> <hr>
 
 ## 12.02.2019 (Zehnte Stunde) <a name="zehn"></a> 
 
+<details>
+  <summary>Genauer</summary>
 Diese Doppelstunde haben wir dazu genutzt den Empfänger funktiontüchtig zu machen. Hierzu haben wir mit Variablen gearbeitet, damit der Empfänger je nach Level an der gewünschten Position auftaucht. Den Rest der Stunde haben wir unsere Githhub Seite auf den neusten Stand gebracht und einen Plan für außerhalb der Schule und die nächsten Stunden entwickelt. Dieser beinhaltet das vollenden des ersten Levels und die darauf folgende Weiterleitung zu der Levelauswahl.
 </details> <hr>
 
 ## 19.02.2019 (Elfte Stunde) <a name="elf"></a> 
 
+<details>
+  <summary>Genauer</summary>
 Angefangen haben wir diese Stunde damit ein wenig "aufzuräumen" und unsere Scripts anschaulicher zu gestalten.
 Dafür haben wir die Funktion "make a block" erstmals benutzt um die sehr großen Blöcke, welche nur aus einfachen Control Befehlen bestanden, zusammenzufassen.
 
@@ -185,12 +196,16 @@ Unser Problem besteht momentan noch dadrin, dass die Spiegel sich nicht getrennt
 
 ## 25.02.2019 (Zwölfte Stunde) <a name="zwölf"></a> 
 
+<details>
+  <summary>Genauer</summary>
 Der Anfang dieser Stunde wurde für organisatorische Absprechen genutzt, bezüglich des Abgabetermins für dieses Projekt.
 Heute haben wir uns mit dem Problem beschäftigt, dass der weiße Laserstrahl, der dem Hauptstrahl folgt auf dem Background der Levelauswahl sichtbar bleibt, sobald sich der Spieler dazu entscheidet das Spiel zu beenden, nachdem der Laserstrahl gegen einen Rand gekommen ist. Auf den Hinweis von Herrn Buhl hin haben wir begonnen Lösungswege auszutesten, die entweder den weißen Strahl auslöschen sobald der rote Strahl die Wand berührt, oder den weißen Strahl nur auf der Levelauswahl mit farbigen Hintergrund "hided".
 </details> <hr>
 
 ## 26.02.2019 (Dreizehnte Stunde) <a name="dreizehn"></a> 
 
+<details>
+  <summary>Genauer</summary>
 Angefangen haben wir diese Stunde mit dem Hinzufügen eines Menu-Knopfs, welcher einen innerhalb eines Levels durch das Anklicken wieder zurück zum Menu bringt. Dadurch müssen wir auch nicht mehr so häufig die grüne Fahne benutzen, welche am Anfang noch sehr häufig zum Einsatz gekommen ist. Außerdem haben wir uns mit dem Problem aus der letzten Stunde erneut auseinandergesetzt. Dabei sind wir leider noch nicht zu einem zufriedenstellenden Zustand gekommen. Diesem Problem werden wir trotzdem weiter nachgehen und versuchen es schlussendlich zu lösen.
 
 Des Weiteren haben wir an unserem Arbeitstagebuch gearbeitet und uns dabei am hervorragenden Tagebuch von Tom Strobeck und Felix Herrmann inspiriert, welches neben einem Inhaltsverzeichnis auch noch eine To-Do-Liste und eine Ausklapp Funktion, welche durch das Anklicken genauere Informationen über die jeweilige Stunden bietet. Dies hat uns sehr angetan und werden dies nun auch in unseren Stundenblog integrieren.
