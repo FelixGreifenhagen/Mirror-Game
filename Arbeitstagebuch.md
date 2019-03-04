@@ -36,6 +36,9 @@
 
 ## 17.12.2018 (Erste Stunde) <a name="eins"></a> 
 
+
+<details>
+  <summary>Genauer</summary> 
 Da dies die erste Stunde war, haben wir grundsätzlich überlegt welche Möglichkeiten wir für unser neues Projekt nutzen wollen. 
 Greenfoot und Applab fielen allerdings raus, da wir uns im letzten Halbjahr intensiv in Snap reingearbeitet hatten, somit die
 Grundfunktionen bereits gut beherrschten und ein anspruchvolleres Projekt in Angriff nehmen wollten. Dies wäre mit uns unbekannten Programmen nicht ohne sehr großen Zeitaufwand möglich gewesen.
@@ -44,14 +47,20 @@ Weitergehend haben wir gebrainstormed, ob wir ein weiteres Spiel, etwas nützlic
 
 ## 18.12.2018 (Zweite Stunde) <a name="zwei"></a> 
 
+<details>
+  <summary>Genauer</summary> 
 Nach einigen Überlegungen haben wir uns schließlich für das Spiegelspiel entschieden. Das grobe Konzept funktioniert wie folgt:
 Zuerst wird ein Objekt aus einem "Sender" geschossen.
 Dies soll im Endeffekt einen Empfänger erreichen. In der Zwischenzeit müssen Spiegel so eingestellt werden, dass das Objekt an ihnen im korrekten Winkel abprallt und Hindernisse und ähnliches umgeht.
 
 Daraufhin haben wir begonnen diese Idee in Snap zu verwirklichen. Angefangen mit dem Aussehen des Startbildschirms und der Levelauswahl, haben wir die Hintergründe in paint.net designt.
+</details>
 
+<details>
+  <summary>Genauer</summary>
 ![start2](https://user-images.githubusercontent.com/42579285/51544472-4c75e800-1e60-11e9-8329-fc8c23fafac6.png)
-
+<details>
+ 
 
 ## 08.01.2019 (Dritte Stunde) <a name="drei"></a> 
 
@@ -81,14 +90,20 @@ Im eigentlichen Spiel sollen die Level später als unterschiedliche Themenwelten
 
 ## 21.01.2019 (Sechste Stunde) <a name="sechs"></a> 
 
+<details>
+  <summary>Genauer</summary> 
 Unsere Arbeit aus der letzten Stunde haben wir heute fortgeführt und die restlichen vier Level mit einem groben Aufbau versehen.
 Dabei war unser Ziel die Level möglichst mit einem steigenden Schwierigkeitsgrad zu versehen und damit eine größere Herausforderung für den Spieler  zu schaffen.
 Wir haben bisher nur sieben Level gestaltet, da wir uns das achte Level künstlerisch offen gelassen haben. Dieses sollte bestmöglichst den größten Schwierigkeitsgrad haben, um eine echte Herausforderung zu schaffen. Teda hat zudem vermerkt, dass es witzig wäre, das achte Level "unmöglich" zu machen. Diese Entscheidung halten wir uns allerdings bis kurz vor dem Ende offen.
+</details>
+
+<details>
+  <summary>Skizzen</summary> 
 ![skizzelevel4](https://user-images.githubusercontent.com/42579285/51467354-a8f7db00-1d6c-11e9-9655-829da6ee67b6.png)
 ![skizze5 scnon](https://user-images.githubusercontent.com/42579285/51544787-eb9adf80-1e60-11e9-98f8-5e2d265c6044.png)
 ![skizzelevel6](https://user-images.githubusercontent.com/42579285/51467362-ac8b6200-1d6c-11e9-819c-4816f76e4c4d.png)
 ![skizzelevel7](https://user-images.githubusercontent.com/42579285/51467366-af865280-1d6c-11e9-9b78-ad951f0c8afd.png)
-
+</details>
 ## 22.01.2019 (Siebte Stunde) <a name="sieben"></a> 
 
 Leo hat zu Hause angefangen sich mit den Bewegungsabläufen des "Lasers" und dem manuellen Drehen des Spiegels zu beschäftigen und dabei verschiedene mögliche Versionen ausprobiert. Dabei scheinen vor allem die für uns noch unbekannten Funktionen Pen, sowie List eine entscheidene Rolle im weiteren Verlauf dieses Projektes zu spielen.   
