@@ -99,13 +99,22 @@ Weitergehend haben wir Sprites für die einzelnen Spiegel, Hindernisse, den Empf
 </details> <hr>
 
 ## 15.01.2019 (Fünfte Stunde) <a name="fünf"></a> 
-
+<details>
+  <summary>Genauer</summary>
 Diese Stunde haben wir begonnen die verschiedenen Level Inhalte mit Hilfe von paint.net visuell darzustellen. Wie auf den Screenshots zu sehen ist, haben wir auf Details vorerst verzichtet und uns auf den groben Aufbau konzentriert. 
 Im eigentlichen Spiel sollen die Level später als unterschiedliche Themenwelten gestalltet werden. Trotzdem haben wir es für sinnvoll erachtet diese vorerst zu vernachlässigen, der Übersicht zur Liebe.
+</details>
+
+<details>
+  <summary>Genauer</summary>
+    
 ![skizze level 1](https://user-images.githubusercontent.com/42579285/51190316-44f39380-18e2-11e9-86fd-1ed3a70ea56b.png)
+
 ![skizze level 2](https://user-images.githubusercontent.com/42579285/51190319-46bd5700-18e2-11e9-8107-b53f0f3c6b31.png)
+
 ![sikzze level 3](https://user-images.githubusercontent.com/42579285/51190313-42913980-18e2-11e9-8c16-2893cf05c289.png)
 
+</details> <hr>
 ## 21.01.2019 (Sechste Stunde) <a name="sechs"></a> 
 
 *   Leveldesign Skizzen angefertigt
