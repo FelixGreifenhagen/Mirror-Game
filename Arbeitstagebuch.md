@@ -54,8 +54,8 @@ Weitergehend haben wir gebrainstormed, ob wir ein weiteres Spiel, etwas nützlic
 
 ## 18.12.2018 (Zweite Stunde) <a name="zwei"></a> 
 
-    * Entscheidung für "Spiegelspiel" geroffen
-    * Angefangen Hintergründe etc. zu gestalten
+*   Entscheidung für "Spiegelspiel" geroffen
+*   Angefangen Hintergründe etc. zu gestalten
     
 <details>
   <summary>Genauer</summary> 
@@ -64,7 +64,6 @@ Zuerst wird ein Objekt aus einem "Sender" geschossen.
 Dies soll im Endeffekt einen Empfänger erreichen. In der Zwischenzeit müssen Spiegel so eingestellt werden, dass das Objekt an ihnen im korrekten Winkel abprallt und Hindernisse und ähnliches umgeht.
 
 Daraufhin haben wir begonnen diese Idee in Snap zu verwirklichen. Angefangen mit dem Aussehen des Startbildschirms und der Levelauswahl, haben wir die Hintergründe in paint.net designt.
-</details>
 
 <details>
   <summary>Screenshot</summary>
