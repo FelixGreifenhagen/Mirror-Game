@@ -63,10 +63,6 @@ Dies soll im Endeffekt einen Empfänger erreichen. In der Zwischenzeit müssen S
 
 Daraufhin haben wir begonnen diese Idee in Snap zu verwirklichen. Angefangen mit dem Aussehen des Startbildschirms und der Levelauswahl, haben wir die Hintergründe in paint.net designt.
 
-
-<details>
-  <summary>Screenshot</summary>
-  
 ![start2](https://user-images.githubusercontent.com/42579285/51544472-4c75e800-1e60-11e9-8329-fc8c23fafac6.png)
  <hr>
  
@@ -77,16 +73,11 @@ Daraufhin haben wir begonnen diese Idee in Snap zu verwirklichen. Angefangen mit
   <summary>Genauer</summary> 
 
 Nachdem wir vor den Ferien schon mit den Hintergründen begonnen haben, setzen wir dies nun fort und erstellen zudem acht weitere Buttons, welche zu den jeweiligen Level führen werden. Zu jedem dieser Buttons wurde ein Sprite mit passendem Costume angelegt. Diese haben wir im vorhinein mit Hilfe von paint.net gestaltet.
-    
- <details>
-  <summary>Screenshot</summary>    
+        
 ![level 1 buis 8](https://user-images.githubusercontent.com/42579285/51106502-40e54a00-17ec-11e9-9229-18d016eaae20.png)
-
-   <details>
-  <summary>Screenshot</summary> 
+ 
 Darüber hinaus haben wir begonnen die Levelauswahl funktionstüchtig zu machen.
 
-     
 ![viel](https://user-images.githubusercontent.com/42579285/51544607-9a8aeb80-1e60-11e9-911f-b937c08e41e8.png)
 
 <hr>
