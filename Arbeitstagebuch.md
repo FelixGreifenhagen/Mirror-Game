@@ -145,16 +145,17 @@ Wir haben bisher nur sieben Level gestaltet, da wir uns das achte Level künstle
 
 ## 22.01.2019 (Siebte Stunde) <a name="sieben"></a> 
 
-* 
 * Bearbeitung der GitHub Seite
 
 <details>
   <summary>Skizzen</summary> 
-Leo hat zu Hause angefangen sich mit den Bewegungsabläufen des "Lasers" und dem manuellen Drehen des Spiegels zu beschäftigen und dabei verschiedene mögliche Versionen ausprobiert. Dabei scheinen vor allem die für uns noch unbekannten Funktionen Pen, sowie List eine entscheidene Rolle im weiteren Verlauf dieses Projektes zu spielen.   
+Leo hat zu Hause angefangen sich mit den Bewegungsabläufen des "Lasers" und dem manuellen Drehen des Spiegels zu beschäftigen und dabei verschiedene mögliche Versionen ausprobiert. Dabei scheinen vor allem die für uns noch unbekannten Funktionen Pen, sowie List eine entscheidene Rolle im weiteren Verlauf dieses Projektes zu spielen. In der Stunde selbst haben wir hauptsächlich unsere in den vorherigen Stunden gestallteten Skizzen in unsere GitHub Seite übertragen.  
 </details> <hr>
 
 ## 29.01.2019 (Achte Stunde) <a name="acht"></a> 
-*   
+
+*   Laser bearbeitet
+
 <details>
   <summary>Genauer</summary>
 Diese Stunde haben wir auf Leos Vorarbeit aufgebaut und uns hauptsächlich mit dem Laser beschäftigt.
@@ -165,6 +166,8 @@ Darauf hin haben wir uns damit beschäftigt, wie es möglich ist, dass der Strah
 
 ## 04.02.2019 (Neunte Stunde) <a name="neun"></a> 
 
+*   Grundsätzlichen Spielablauf überdacht/ überarbeitet
+
 <details>
   <summary>Genauer</summary>
 Nach Überlegungen haben wir uns darauf geeinigt, den Spieler nach jedem erfolgreich absolvierten Level zurück zur Levelauswahl zu schicken, hauptsächlich um das "Snapsystem" nicht zu überlasten. Dies war bereits bei unserem letzten Projekt ein Problem, desshalb wollen wir bei dem jetzigen, deutlich größeren kein zusätzliches Risiko eingehen.
@@ -173,9 +176,14 @@ Zuhause hat Teda begonnen an der Projektseite zu schreiben.
 
 ## 12.02.2019 (Zehnte Stunde) <a name="zehn"></a> 
 
+*   Empfänger funktionstüchtig gemacht
+
 <details>
   <summary>Genauer</summary>
 Diese Doppelstunde haben wir dazu genutzt den Empfänger funktiontüchtig zu machen. Hierzu haben wir mit Variablen gearbeitet, damit der Empfänger je nach Level an der gewünschten Position auftaucht. Den Rest der Stunde haben wir unsere Githhub Seite auf den neusten Stand gebracht und einen Plan für außerhalb der Schule und die nächsten Stunden entwickelt. Dieser beinhaltet das vollenden des ersten Levels und die darauf folgende Weiterleitung zu der Levelauswahl.
+    
+    ![EmpfängerPosition](https://user-images.githubusercontent.com/42579285/54521971-66b5d900-496c-11e9-8a4f-6e6ff2a4f23f.png)
+
 </details> <hr>
 
 ## 19.02.2019 (Elfte Stunde) <a name="elf"></a> 
