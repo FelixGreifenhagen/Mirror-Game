@@ -233,11 +233,16 @@ Diese falsche Variable wurde gefunden und ausgetauscht. Nun lassen sich alle Spi
 Weitergehend haben wir in der Stunde einen neuen Sprite angelegt, um dem Spieler Zugang zu einer kurzen Spielanleitung zu ermöglichen. Diese muss noch geschrieben und mit Hilfe von Paint gestaltet werden. 
  </details> <hr>
 
-## 25.02.2019 (Fünfzehnte Stunde) <a name="fünfzehn"></a> 
+## 18.03.2019 (Fünfzehnte Stunde) <a name="fünfzehn"></a> 
 
+*   GitHub Seite bearbeitet
 
+<details>
+  <summary>Genauer</summary>
+Da Leo diese Stunde leider nicht da sein konnte, habe ich aufgrund der näherkommenden Deadline hauptsächlich an dem zuvor schon zuhause von mir verschönerten Arbeitstagebuch gearbeitet.     
 
-
+ </details> <hr>
+ 
 #### [Zum Anfang](#Inhaltsverzeichnis)
 
 #### [Zur Projektseite](https://github.com/LeoandTeda/-/blob/master/README.md)
