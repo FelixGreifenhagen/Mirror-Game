@@ -247,6 +247,7 @@ Leo hat zuhause einen unserer gravierensten Fehler lösen können. Bislang besta
 Diese falsche Variable wurde gefunden und ausgetauscht. Nun lassen sich alle Spiegel unabhängig voneinander vom Spieler bewegen. 
 Nachdem Teda auf den neusten Stand gesetzt und das alte Problem verstanden wurde haben wir in der Stunde einen neuen Sprite angelegt, um dem Spieler Zugang zu einer kurzen Spielanleitung zu ermöglichen. Diese muss noch geschrieben und mit Hilfe von Paint gestaltet werden.
 
+
 ![Sprites](https://user-images.githubusercontent.com/42579285/54523002-ce6d2380-496e-11e9-9961-68478eb4dc15.png)
 
  </details> <hr>
@@ -259,6 +260,7 @@ Nachdem Teda auf den neusten Stand gesetzt und das alte Problem verstanden wurde
 <details>
   <summary>Genauer</summary>
 Diese Doppelstunde haben wir hauptsächlich dafür genutzt verschiedene Versionen auszuprobieren, wie die Spielanleitung gestaltet und umgesetzt werden könnte. Ursprünglich war geplant einfach den Text mit Hilfe von Paint als Bild einzufügen. Da die Qualität beim einfügen in Snap allerdings stark leidet haben wir uns schnell dagegen entschieden. Stattdessen haben wir beschlossen einen extra Sprite im Programm selbst für den Text anzulegen. Da es optisch mit einer Erzähler Figur allerdings suboptimal war, haben wir den Sprite ohne Costume gelassen, so dass ausschließlich der Text sichtbar ist.
+
 
 ![Anleitung](https://user-images.githubusercontent.com/42579285/54523062-ee9ce280-496e-11e9-9052-46bb2e565d6d.png)
 
