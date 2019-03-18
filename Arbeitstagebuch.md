@@ -160,8 +160,11 @@ Leo hat zu Hause angefangen sich mit den Bewegungsabläufen des "Lasers" und dem
   <summary>Genauer</summary>
 Diese Stunde haben wir auf Leos Vorarbeit aufgebaut und uns hauptsächlich mit dem Laser beschäftigt.
 Hierbei haben wir die uns bis dato unbekannte Funktion des Pens zu Nutzen gemacht. Damit der Laser Strahl nicht durchgängig sichtbar ist, hatten wir die Idee einen weißen Strahl, der den farbigen Strahl gewissermaßen ausradiert, in dem er ihm mit kurzem Abstand folgt.
-Anstatt einen weiteren Laser Sprite anzulegen arbeiteten wir erneut mit der Funktion des Klonens.
+Anstatt einen weiteren Laser Sprite anzulegen, arbeiteten wir erneut mit der Funktion des Klonens.
 Darauf hin haben wir uns damit beschäftigt, wie es möglich ist, dass der Strahl "verschwindet" sobald er ein Hindernis oder den Rand des Spielfeldes berührt. Sobald ein Spiegel berührt wird, soll der Strahl nach dem Grundsatz "Einfallswinkel=Ausfallswinkel" von diesem Spiegel reflktiert werden. Bei Berührung des Empfängers sind wir uns noch nicht sicher, ob wir direkt das nächste Level einleiten wollen oder den Spieler zuerst zurück zur Levelauswahl zu leiten.
+    
+![LaserKlonweiß](https://user-images.githubusercontent.com/42579285/54522459-931e2500-496d-11e9-9b24-e7eff1ebbabb.png)
+    
 </details> <hr>
 
 ## 04.02.2019 (Neunte Stunde) <a name="neun"></a> 
@@ -170,7 +173,7 @@ Darauf hin haben wir uns damit beschäftigt, wie es möglich ist, dass der Strah
 
 <details>
   <summary>Genauer</summary>
-Nach Überlegungen haben wir uns darauf geeinigt, den Spieler nach jedem erfolgreich absolvierten Level zurück zur Levelauswahl zu schicken, hauptsächlich um das "Snapsystem" nicht zu überlasten. Dies war bereits bei unserem letzten Projekt ein Problem, desshalb wollen wir bei dem jetzigen, deutlich größeren kein zusätzliches Risiko eingehen.
+Nach Überlegungen haben wir uns darauf geeinigt, den Spieler nach jedem erfolgreich absolvierten Level zurück zur Levelauswahl zu schicken, hauptsächlich um das "Snapsystem" nicht zu überlasten. Dies war bereits bei unserem letzten Projekt ein Problem, desshalb wollen wir bei dem jetzigen, deutlich größeren kein zusätzliches Risiko eingehen. Dies haben wir in der Stunde noch erfolgreich absolvieren können.
 Zuhause hat Teda begonnen an der Projektseite zu schreiben.
 </details> <hr>
 
@@ -182,7 +185,7 @@ Zuhause hat Teda begonnen an der Projektseite zu schreiben.
   <summary>Genauer</summary>
 Diese Doppelstunde haben wir dazu genutzt den Empfänger funktiontüchtig zu machen. Hierzu haben wir mit Variablen gearbeitet, damit der Empfänger je nach Level an der gewünschten Position auftaucht. Den Rest der Stunde haben wir unsere Githhub Seite auf den neusten Stand gebracht und einen Plan für außerhalb der Schule und die nächsten Stunden entwickelt. Dieser beinhaltet das vollenden des ersten Levels und die darauf folgende Weiterleitung zu der Levelauswahl.
     
-   ![EmpfängerPosition](https://user-images.githubusercontent.com/42579285/54521971-66b5d900-496c-11e9-8a4f-6e6ff2a4f23f.png)
+![EmpfängerPosition](https://user-images.githubusercontent.com/42579285/54521971-66b5d900-496c-11e9-8a4f-6e6ff2a4f23f.png)
 
 </details> <hr>
 
@@ -215,7 +218,8 @@ Unser Problem besteht momentan noch dadrin, dass die Spiegel sich nicht getrennt
 <details>
   <summary>Genauer</summary>
 Der Anfang dieser Stunde wurde für organisatorische Absprechen genutzt, bezüglich des Abgabetermins für dieses Projekt.
-Heute haben wir uns mit dem Problem beschäftigt, dass der weiße Laserstrahl, der dem Hauptstrahl folgt auf dem Background der Levelauswahl sichtbar bleibt, sobald sich der Spieler dazu entscheidet das Spiel zu beenden, nachdem der Laserstrahl gegen einen Rand gekommen ist. Auf den Hinweis von Herrn Buhl hin haben wir begonnen Lösungswege auszutesten, die entweder den weißen Strahl auslöschen sobald der rote Strahl die Wand berührt, oder den weißen Strahl nur auf der Levelauswahl mit farbigen Hintergrund "hided".
+Heute haben wir uns mit dem Problem beschäftigt, dass der weiße Laserstrahl, der dem Hauptstrahl folgt auf dem Background der Levelauswahl sichtbar bleibt, sobald sich der Spieler dazu entscheidet das Spiel zu beenden, nachdem der Laserstrahl gegen einen Rand gekommen ist. Auf den Hinweis von Herrn Buhl hin haben wir begonnen Lösungswege auszutesten, die entweder den weißen Strahl auslöschen sobald der rote Strahl die Wand berührt, oder den weißen Strahl nur auf der Levelauswahl mit farbigen Hintergrund "hided". Eine Endlösung haben wir jedoch noch nicht gefunden.
+    
 </details> <hr>
 
 ## 26.02.2019 (Dreizehnte Stunde) <a name="dreizehn"></a> 
@@ -226,6 +230,9 @@ Heute haben wir uns mit dem Problem beschäftigt, dass der weiße Laserstrahl, d
 <details>
   <summary>Genauer</summary>
 Angefangen haben wir diese Stunde mit dem Hinzufügen eines Menu-Knopfs, welcher einen innerhalb eines Levels durch das Anklicken wieder zurück zum Menu bringt. Dadurch müssen wir auch nicht mehr so häufig die grüne Fahne benutzen, welche am Anfang noch sehr häufig zum Einsatz gekommen ist. Außerdem haben wir uns mit dem Problem aus der letzten Stunde erneut auseinandergesetzt. Dabei sind wir leider noch nicht zu einem zufriedenstellenden Zustand gekommen. Diesem Problem werden wir trotzdem weiter nachgehen und versuchen es schlussendlich zu lösen.
+    
+![Menubutton](https://user-images.githubusercontent.com/42579285/54522838-7a623f00-496e-11e9-922a-2e9abff0a0ac.png)
+    
 
 Des Weiteren haben wir an unserem Arbeitstagebuch gearbeitet und uns dabei am hervorragenden Tagebuch von Tom Strobeck und Felix Herrmann inspiriert, welches neben einem Inhaltsverzeichnis auch noch eine To-Do-Liste und eine Ausklapp Funktion, welche durch das Anklicken genauere Informationen über die jeweilige Stunden bietet. Dies hat uns sehr angetan und werden dies nun auch in unseren Stundenblog integrieren.
 </details> <hr>
@@ -238,8 +245,12 @@ Des Weiteren haben wir an unserem Arbeitstagebuch gearbeitet und uns dabei am he
   <summary>Genauer</summary>
 Leo hat zuhause einen unserer gravierensten Fehler lösen können. Bislang bestand immer das Problem, dass sich nur einer der Spiegel frei bewegen lassen konnte, da die Spiegel Klone von einander waren. Die Grundidee war von anfang an korrekt, doch hat eine falsche Variable dazu geführt, dass das Endergebnis nicht funktionstüchtig war.
 Diese falsche Variable wurde gefunden und ausgetauscht. Nun lassen sich alle Spiegel unabhängig voneinander vom Spieler bewegen. 
-Nachdem Teda auf den neusten Stand gesetzt und das alte Problem verstanden wurde haben wir in der Stunde einen neuen Sprite angelegt, um dem Spieler Zugang zu einer kurzen Spielanleitung zu ermöglichen. Diese muss noch geschrieben und mit Hilfe von Paint gestaltet werden. 
+Nachdem Teda auf den neusten Stand gesetzt und das alte Problem verstanden wurde haben wir in der Stunde einen neuen Sprite angelegt, um dem Spieler Zugang zu einer kurzen Spielanleitung zu ermöglichen. Diese muss noch geschrieben und mit Hilfe von Paint gestaltet werden.
+
+![Sprites](https://user-images.githubusercontent.com/42579285/54523002-ce6d2380-496e-11e9-9961-68478eb4dc15.png)
+
  </details> <hr>
+
 
 ## 05.03.2019 (Vierzehnte Stunde) <a name="vierzehn"></a>
 
@@ -248,6 +259,9 @@ Nachdem Teda auf den neusten Stand gesetzt und das alte Problem verstanden wurde
 <details>
   <summary>Genauer</summary>
 Diese Doppelstunde haben wir hauptsächlich dafür genutzt verschiedene Versionen auszuprobieren, wie die Spielanleitung gestaltet und umgesetzt werden könnte. Ursprünglich war geplant einfach den Text mit Hilfe von Paint als Bild einzufügen. Da die Qualität beim einfügen in Snap allerdings stark leidet haben wir uns schnell dagegen entschieden. Stattdessen haben wir beschlossen einen extra Sprite im Programm selbst für den Text anzulegen. Da es optisch mit einer Erzähler Figur allerdings suboptimal war, haben wir den Sprite ohne Costume gelassen, so dass ausschließlich der Text sichtbar ist.
+
+![Anleitung](https://user-images.githubusercontent.com/42579285/54523062-ee9ce280-496e-11e9-9052-46bb2e565d6d.png)
+
 </details> <hr>
 
 
