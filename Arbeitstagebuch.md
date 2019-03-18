@@ -229,9 +229,19 @@ Des Weiteren haben wir an unserem Arbeitstagebuch gearbeitet und uns dabei am he
 <details>
   <summary>Genauer</summary>
 Leo hat zuhause einen unserer gravierensten Fehler lösen können. Bislang bestand immer das Problem, dass sich nur einer der Spiegel frei bewegen lassen konnte, da die Spiegel Klone von einander waren. Die Grundidee war von anfang an korrekt, doch hat eine falsche Variable dazu geführt, dass das Endergebnis nicht funktionstüchtig war.
-Diese falsche Variable wurde gefunden und ausgetauscht. Nun lassen sich alle Spiegel unabhängig voneinander vom Spieler bewegen.
-Weitergehend haben wir in der Stunde einen neuen Sprite angelegt, um dem Spieler Zugang zu einer kurzen Spielanleitung zu ermöglichen. Diese muss noch geschrieben und mit Hilfe von Paint gestaltet werden. 
+Diese falsche Variable wurde gefunden und ausgetauscht. Nun lassen sich alle Spiegel unabhängig voneinander vom Spieler bewegen. 
+Nachdem Teda auf den neusten Stand gesetzt und das alte Problem verstanden wurde haben wir in der Stunde einen neuen Sprite angelegt, um dem Spieler Zugang zu einer kurzen Spielanleitung zu ermöglichen. Diese muss noch geschrieben und mit Hilfe von Paint gestaltet werden. 
  </details> <hr>
+
+## 05.03.2019 (Vierzehnte Stunde) <a name="vierzehn"></a>
+
+*   Anleitung funktionstüchtig gemacht
+
+<details>
+  <summary>Genauer</summary>
+Diese Doppelstunde haben wir hauptsächlich dafür genutzt verschiedene Versionen auszuprobieren, wie die Spielanleitung gestaltet und umgesetzt werden könnte. Ursprünglich war geplant einfach den Text mit Hilfe von Paint als Bild einzufügen. Da die Qualität beim einfügen in Snap allerdings stark leidet haben wir uns schnell dagegen entschieden. Stattdessen haben wir beschlossen einen extra Sprite im Programm selbst für den Text anzulegen. Da es optisch mit einer Erzähler Figur allerdings suboptimal war, haben wir den Sprite ohne Costume gelassen, so dass ausschließlich der Text sichtbar ist.
+</details> <hr>
+
 
 ## 18.03.2019 (Fünfzehnte Stunde) <a name="fünfzehn"></a> 
 
@@ -239,7 +249,7 @@ Weitergehend haben wir in der Stunde einen neuen Sprite angelegt, um dem Spieler
 
 <details>
   <summary>Genauer</summary>
-Da Leo diese Stunde leider nicht da sein konnte, habe ich aufgrund der näherkommenden Deadline hauptsächlich an dem zuvor schon zuhause von mir verschönerten Arbeitstagebuch gearbeitet.     
+Da Leo diese Stunde leider nicht da sein konnte, habe ich aufgrund der näherkommenden Deadline hauptsächlich an dem zuvor schon zuhause von mir bearbeiteten Arbeitstagebuch gearbeitet.     
 
  </details> <hr>
  
