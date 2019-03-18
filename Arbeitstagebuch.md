@@ -182,7 +182,7 @@ Zuhause hat Teda begonnen an der Projektseite zu schreiben.
   <summary>Genauer</summary>
 Diese Doppelstunde haben wir dazu genutzt den Empfänger funktiontüchtig zu machen. Hierzu haben wir mit Variablen gearbeitet, damit der Empfänger je nach Level an der gewünschten Position auftaucht. Den Rest der Stunde haben wir unsere Githhub Seite auf den neusten Stand gebracht und einen Plan für außerhalb der Schule und die nächsten Stunden entwickelt. Dieser beinhaltet das vollenden des ersten Levels und die darauf folgende Weiterleitung zu der Levelauswahl.
     
-    ![EmpfängerPosition](https://user-images.githubusercontent.com/42579285/54521971-66b5d900-496c-11e9-8a4f-6e6ff2a4f23f.png)
+   ![EmpfängerPosition](https://user-images.githubusercontent.com/42579285/54521971-66b5d900-496c-11e9-8a4f-6e6ff2a4f23f.png)
 
 </details> <hr>
 
