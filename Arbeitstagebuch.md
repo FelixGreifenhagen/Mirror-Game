@@ -32,6 +32,8 @@
 
 [Fünfzehnte Informatikstunde](#fünfzehn)
 
+[Sechszehnte Informatikstunde](#sechszehn)
+
 
 
 ## 17.12.2018 (Erste Stunde) <a name="eins"></a> 
@@ -253,7 +255,7 @@ Nachdem Teda auf den neusten Stand gesetzt und das alte Problem verstanden wurde
  </details> <hr>
 
 
-## 05.03.2019 (Vierzehnte Stunde) <a name="vierzehn"></a>
+## 05.03.2019 (Fünfzehnte Stunde) <a name="fünfzehn"></a>
 
 *   Anleitung funktionstüchtig gemacht
 
@@ -267,7 +269,7 @@ Diese Doppelstunde haben wir hauptsächlich dafür genutzt verschiedene Versione
 </details> <hr>
 
 
-## 18.03.2019 (Fünfzehnte Stunde) <a name="fünfzehn"></a> 
+## 18.03.2019 (Sechszehnte Stunde) <a name="sechszehn"></a>
 
 *   GitHub Seite bearbeitet
 
