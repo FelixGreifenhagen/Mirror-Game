@@ -36,6 +36,10 @@
 
 [Siebzehnte Informatikstunde](#siebzehn)
 
+[Achtzehnte Informatikstunde](#achtzehn)
+
+
+
 ## 17.12.2018 (Erste Stunde) <a name="eins"></a> 
 
 *   Brainstormen
@@ -279,6 +283,29 @@ Da Leo diese Stunde leider nicht da sein konnte, habe ich aufgrund der näherkom
 
  </details> <hr>
  
+ 
+ ## 25.03.2019 (Siebzehnte Stunde) <a name="siebzehn"></a>
+ 
+ *  
+ 
+ <details>
+  <summary>Genauer</summary> 
+  ftzizu
+    
+  </details> <hr>
+  
+  
+   ## 26.03.2019 (Achtzehnte Stunde) <a name="achtzehn"></a>
+ 
+ *  
+ 
+ <details>
+  <summary>Genauer</summary> 
+  ftzizu
+    
+  </details> <hr>
+  
+  
 #### [Zum Anfang](#Inhaltsverzeichnis)
 
 #### [Zur Projektseite](https://github.com/LeoandTeda/-/blob/master/README.md)
