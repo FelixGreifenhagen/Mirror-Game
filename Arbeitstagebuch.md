@@ -249,9 +249,11 @@ So sehen bis jetzt zum Beispiel Level 1 und 3 aus, wobei wir uns dafür entschie
 
 <details>
   <summary>Genauer</summary>
-Der Anfang dieser Stunde wurde für organisatorische Absprechen genutzt, bezüglich des Abgabetermins für dieses Projekt.
+Der Anfang dieser Stunde wurde für organisatorische Absprachen genutzt, bezüglich des Abgabetermins für dieses Projekt.
 Heute haben wir uns mit dem Problem beschäftigt, dass der weiße Laserstrahl, der dem Hauptstrahl folgt auf dem Background der Levelauswahl sichtbar bleibt, sobald sich der Spieler dazu entscheidet das Spiel zu beenden, nachdem der Laserstrahl gegen einen Rand gekommen ist. Auf den Hinweis von Herrn Buhl hin haben wir begonnen Lösungswege auszutesten, die entweder den weißen Strahl auslöschen sobald der rote Strahl die Wand berührt, oder den weißen Strahl nur auf der Levelauswahl mit farbigen Hintergrund "hided". Eine Endlösung haben wir jedoch noch nicht gefunden.
+Hier ist das Problem nochmal als Screenshot:
     
+![Unbenannt](https://user-images.githubusercontent.com/42579285/54958670-cd338c00-4f56-11e9-978a-4d468e9c7cd8.png)    
 </details> <hr>
 
 ## 26.02.2019 (Dreizehnte Stunde) <a name="dreizehn"></a> 
