@@ -163,10 +163,15 @@ Wir haben bisher nur sieben Level gestaltet, da wir uns das achte Level künstle
 ## 22.01.2019 (Siebte Stunde) <a name="sieben"></a> 
 
 * Bearbeitung der GitHub Seite
+* Arbeit an den Spiegeln
 
 <details>
   <summary>Genauer</summary> 
-Leo hat zu Hause angefangen sich mit den Bewegungsabläufen des "Lasers" und dem manuellen Drehen des Spiegels zu beschäftigen und dabei verschiedene mögliche Versionen ausprobiert. Dabei scheinen vor allem die für uns noch unbekannten Funktionen Pen, sowie List eine entscheidene Rolle im weiteren Verlauf dieses Projektes zu spielen. In der Stunde selbst haben wir hauptsächlich unsere in den vorherigen Stunden gestallteten Skizzen in unsere GitHub Seite übertragen.  
+Leo hat zu Hause angefangen sich mit den Bewegungsabläufen des "Lasers" und dem manuellen Drehen des Spiegels zu beschäftigen und dabei verschiedene mögliche Versionen ausprobiert. Dabei scheinen vor allem die für uns noch unbekannten Funktionen Pen, sowie List eine entscheidene Rolle im weiteren Verlauf dieses Projektes zu spielen. In der Stunde selbst haben wir hauptsächlich unsere in den vorherigen Stunden gestalteten Skizzen in unsere GitHub Seite übertragen.  
+    
+![Unbenannt](https://user-images.githubusercontent.com/42579285/54955990-331c1580-4f4f-11e9-9ee2-197bc49cc84d.png)
+
+Dies sind erste Ansätze, um mithilfe von Klonen und Listen mehrere Spiegel zu erstellen. Mithilfe der Listen lässt sich dabei die x und y Position, sowie die Richtung der Spiegel speichern, was für die Reflektion eine wichtige Rolle spielen wird. Auf die genaue Funktion, sowie den Aufbau der einzelnen Blöcke wird nochmal detailliert auf der Projektseite eingegangen. 
 </details> <hr>
 
 ## 29.01.2019 (Achte Stunde) <a name="acht"></a> 
@@ -176,12 +181,15 @@ Leo hat zu Hause angefangen sich mit den Bewegungsabläufen des "Lasers" und dem
 <details>
   <summary>Genauer</summary>
 Diese Stunde haben wir auf Leos Vorarbeit aufgebaut und uns hauptsächlich mit dem Laser beschäftigt.
-Hierbei haben wir die uns bis dato unbekannte Funktion des Pens zu Nutzen gemacht. Damit der Laser Strahl nicht durchgängig sichtbar ist, hatten wir die Idee einen weißen Strahl, der den farbigen Strahl gewissermaßen ausradiert, in dem er ihm mit kurzem Abstand folgt.
+Hierbei haben wir die uns bis dato unbekannte Funktion des Pens zu Nutzen gemacht. Damit der Laserstrahl nicht durchgängig sichtbar ist, hatten wir die Idee einen weißen Strahl zu erstellen, der den farbigen Strahl gewissermaßen ausradiert, indem er ihm mit kurzem Abstand folgt.
 Anstatt einen weiteren Laser Sprite anzulegen, arbeiteten wir erneut mit der Funktion des Klonens.
-Darauf hin haben wir uns damit beschäftigt, wie es möglich ist, dass der Strahl "verschwindet" sobald er ein Hindernis oder den Rand des Spielfeldes berührt. Sobald ein Spiegel berührt wird, soll der Strahl nach dem Grundsatz "Einfallswinkel=Ausfallswinkel" von diesem Spiegel reflktiert werden. Bei Berührung des Empfängers sind wir uns noch nicht sicher, ob wir direkt das nächste Level einleiten wollen oder den Spieler zuerst zurück zur Levelauswahl zu leiten.
-    
+Daraufhin haben wir uns damit beschäftigt, wie es möglich ist, dass der Strahl "verschwindet", sobald er ein Hindernis oder den Rand des Spielfeldes berührt. Zudem soll sobald ein Spiegel berührt wird der Strahl nach dem Grundsatz "Einfallswinkel=Ausfallswinkel" von diesem Spiegel reflektiert werden. Bei Berührung des Empfängers sind wir uns noch nicht sicher, ob wir direkt das nächste Level einleiten wollen oder den Spieler zuerst zurück zur Levelauswahl zu leiten. Die folgenden zwei Screenshots zeigen schon einmal die Grundblöcke für den Laser, welche in den folgenden Stunden noch verbessert werden müssen, aber zum jetzigen Zeitpunkt ausreichend sind. 
+
+![Unbenannt](https://user-images.githubusercontent.com/42579285/54956708-f9e4a500-4f50-11e9-907c-b0dddd7f77fd.png)
+
 ![LaserKlonweiß](https://user-images.githubusercontent.com/42579285/54522459-931e2500-496d-11e9-9b24-e7eff1ebbabb.png)
-    
+
+Der Grundblock für den Laser hat auch schon die Reflektion mit inbegriffen, was natürlich noch nicht richtig funktioniert, aber von der Idee her richtig sein sollte und sich in den nächsten Stunden noch ausbauen lässt.  
 </details> <hr>
 
 ## 04.02.2019 (Neunte Stunde) <a name="neun"></a> 
@@ -190,20 +198,23 @@ Darauf hin haben wir uns damit beschäftigt, wie es möglich ist, dass der Strah
 
 <details>
   <summary>Genauer</summary>
-Nach Überlegungen haben wir uns darauf geeinigt, den Spieler nach jedem erfolgreich absolvierten Level zurück zur Levelauswahl zu schicken, hauptsächlich um das "Snapsystem" nicht zu überlasten. Dies war bereits bei unserem letzten Projekt ein Problem, desshalb wollen wir bei dem jetzigen, deutlich größeren kein zusätzliches Risiko eingehen. Dies haben wir in der Stunde noch erfolgreich absolvieren können.
-Zuhause hat Teda begonnen an der Projektseite zu schreiben.
+Nach Überlegungen haben wir uns darauf geeinigt, den Spieler nach jedem erfolgreich absolvierten Level zurück zur Levelauswahl zu schicken, hauptsächlich um das "Snapsystem" nicht zu überlasten. Dies war bereits bei unserem letzten Projekt ein Problem, deshalb wollen wir bei dem jetzigen, deutlich größeren, kein zusätzliches Risiko eingehen. Dies haben wir in der Stunde noch erfolgreich absolvieren können.
+Außerdem hat sich Leo weiter mit den spiegeln auseinandergesetzt, da diese bisher noch die größten Probleme verursachen und auch am meisten Zeit kosten. Dabei ist es uns schon gelungen die Spiegel einzelnd zu bewegen doch in Kombination mit dem Laser funktioniert das Reflektieren noch nicht richtig und muss eindeutig noch überarbeitet werden.
+Zuhause hat Teda begonnen an der Projektseite zu schreiben, welche bisher von uns noch sehr vernachlässigt wurde.
 </details> <hr>
 
 ## 12.02.2019 (Zehnte Stunde) <a name="zehn"></a> 
 
 *   Empfänger funktionstüchtig gemacht
+*   Plan für die nächsten Stunden erstellt
 
 <details>
   <summary>Genauer</summary>
-Diese Doppelstunde haben wir dazu genutzt den Empfänger funktiontüchtig zu machen. Hierzu haben wir mit Variablen gearbeitet, damit der Empfänger je nach Level an der gewünschten Position auftaucht. Den Rest der Stunde haben wir unsere Githhub Seite auf den neusten Stand gebracht und einen Plan für außerhalb der Schule und die nächsten Stunden entwickelt. Dieser beinhaltet das vollenden des ersten Levels und die darauf folgende Weiterleitung zu der Levelauswahl.
+Diese Doppelstunde haben wir dazu genutzt den Empfänger funktionstüchtig zu machen. Hierzu haben wir mit Variablen gearbeitet, damit der Empfänger je nach Level an der gewünschten Position auftaucht. Dabei sind einige Positionen noch nicht final, was sich nun aber schnell ändern lässt.
     
 ![EmpfängerPosition](https://user-images.githubusercontent.com/42579285/54521971-66b5d900-496c-11e9-8a4f-6e6ff2a4f23f.png)
 
+Den Rest der Stunde haben wir unsere Github Seite auf den neusten Stand gebracht und einen Plan für außerhalb der Schule und die nächsten Stunden entwickelt. Dieser beinhaltet das Vollenden des ersten Levels und die darauf folgende Weiterleitung zu der Levelauswahl. Dabei muss berücksichtigt werden, dass alles zurückgestellt werden muss, damit man mit dem nächsten level fortführen kann. Zudem haben wir über einen möglichen Home Button nachgedacht, welchen wir vielleicht noch einbauen werden.
 </details> <hr>
 
 ## 19.02.2019 (Elfte Stunde) <a name="elf"></a> 
