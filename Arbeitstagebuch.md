@@ -210,7 +210,7 @@ Zuhause hat Teda begonnen an der Projektseite zu schreiben, welche bisher von un
 
 <details>
   <summary>Genauer</summary>
-Diese Doppelstunde haben wir dazu genutzt den Empfänger funktionstüchtig zu machen. Hierzu haben wir mit Variablen gearbeitet, damit der Empfänger je nach Level an der gewünschten Position auftaucht. Dabei sind einige Positionen noch nicht final, was sich nun aber schnell ändern lässt.
+Diese Doppelstunde haben wir dazu genutzt den Empfänger funktionstüchtig zu machen. Hierzu haben wir mit Variablen gearbeitet, damit der Empfänger je nach Level an der gewünschten Position auftaucht. Dabei sind einige Positionen noch nicht vollends sicher, was sich nun aber schnell ändern lässt.
     
 ![EmpfängerPosition](https://user-images.githubusercontent.com/42579285/54521971-66b5d900-496c-11e9-8a4f-6e6ff2a4f23f.png)
 
@@ -219,23 +219,27 @@ Den Rest der Stunde haben wir unsere Github Seite auf den neusten Stand gebracht
 
 ## 19.02.2019 (Elfte Stunde) <a name="elf"></a> 
 
-*   unübersichtlicher Scripts zusammengefasst
-*   Übertragung 
+*   Unübersichtliche Scripts zusammengefasst
+*   Übertragung der Levelskizzen in das Spiel
 
 <details>
   <summary>Genauer</summary>
 Angefangen haben wir diese Stunde damit ein wenig "aufzuräumen" und unsere Scripts anschaulicher zu gestalten.
-Dafür haben wir die Funktion "make a block" erstmals benutzt um die sehr großen Blöcke, welche nur aus einfachen Control Befehlen bestanden, zusammenzufassen.
+Dafür haben wir die Funktion "make a block" erstmals benutzt, um die sehr großen Blöcke, welche nur aus einfachen Control Befehlen bestanden, zusammenzufassen.
 
 ![blocks](https://user-images.githubusercontent.com/42579285/53021549-bf6f8000-3459-11e9-8a46-2b1b73ad2992.png) ![level 1ausgeklappt](https://user-images.githubusercontent.com/42579285/53421956-db859b00-39de-11e9-8835-48f4b0d7650b.png)
 
 
-Nun sieht unsere Stage Script Steite nicht mehr so unordentlich aus, sondern ist viel besser zu verstehen und zugleich nicht so verwirrend:
+Nun sieht unsere Stage Script Seite nicht mehr so unordentlich aus, sondern ist viel besser zu verstehen und zugleich nicht so verwirrend:
 
 ![stage](https://user-images.githubusercontent.com/42579285/53021572-c9917e80-3459-11e9-931e-bd041e30f349.png)
 
-Danach haben wir uns damit beschäftigt unsere Levelskizzen langsam aufs wirkliche Spiel zu übertragen.
-Unser Problem besteht momentan noch dadrin, dass die Spiegel sich nicht getrennt voneinander bewegen lassen, da wir sie als Klone voneinander angelegt haben. Sollten wir für dieses Problem keine Lösung mehr finden, müssen wir die Spiegel doch als drei verschiedene Sprites anlegen, was wir aus ästhetischen Gründen eigentlich vermeiden wollten. Abgesehen davon sind nun die ersten drei Level funktionstüchtig. Allerdings noch mit einem sehr einfachen Design. Diesem wollen wir uns erst widmen, wenn alles andere einwandfrei funktioniert.  
+Danach haben wir uns damit beschäftigt unsere Levelskizzen langsam auf das wirkliche Spiel zu übertragen.
+Unser Problem besteht momentan noch darin, dass die Spiegel sich nicht getrennt voneinander bewegen lassen, da wir sie als Klone voneinander angelegt haben. Sollten wir für dieses Problem keine Lösung mehr finden, müssen wir die Spiegel doch als drei verschiedene Sprites anlegen, was wir aus ästhetischen Gründen eigentlich vermeiden wollten. Abgesehen davon sind nun die ersten drei Level funktionstüchtig. Allerdings noch mit einem sehr einfachen Design. Diesem wollen wir uns erst widmen, wenn alles andere einwandfrei funktioniert.  
+So sehen bis jetzt zum Beispiel Level 1 und 3 aus, wobei wir uns dafür entschieden haben den Hintergrund und das Aussehen der Spirtes erstmal etwas moderat zu halten, damit wir dadurch nicht abgelenkt werden:
+
+![Unbenannt](https://user-images.githubusercontent.com/42579285/54958320-9f017c80-4f55-11e9-93e3-128b4217e2e2.png)
+![Unbenannt](https://user-images.githubusercontent.com/42579285/54958391-d708bf80-4f55-11e9-8437-80d51f71cb52.png)
 </details> <hr>
 
 ## 25.02.2019 (Zwölfte Stunde) <a name="zwölf"></a> 
