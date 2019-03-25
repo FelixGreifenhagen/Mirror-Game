@@ -48,10 +48,11 @@
 
 <details>
   <summary>Genauer</summary> 
-Da dies die erste Stunde war, haben wir grundsätzlich überlegt welche Möglichkeiten wir für unser neues Projekt nutzen wollen. 
+Da dies die erste Informatiktunde war, haben wir grundsätzlich überlegt welche Möglichkeiten wir für unser neues Projekt nutzen wollen. 
 Greenfoot und Applab fielen allerdings raus, da wir uns im letzten Halbjahr intensiv in Snap reingearbeitet hatten, somit die
 Grundfunktionen bereits gut beherrschten und ein anspruchvolleres Projekt in Angriff nehmen wollten. Dies wäre mit uns unbekannten Programmen nicht ohne sehr großen Zeitaufwand möglich gewesen.
-Weitergehend haben wir gebrainstormed, ob wir ein weiteres Spiel, etwas nützliches oder doch etwas komplett anderes programmieren wollten. Überlegungen waren zum Beispiel Tetris, "Wer wird Millionär" oder 4 Bilder- 1 Wort nach zu programmieren, ein Storygame oder eine Art Spiegelspiel zu gestalten.
+Weitergehend haben wir gebrainstormed, ob wir ein weiteres Spiel, etwas nützliches oder doch etwas komplett anderes programmieren wollten. Überlegungen waren zum Beispiel Tetris, "Wer wird Millionär" oder 4 Bilder - 1 Wort nach zu programmieren, ein Storygame oder eine Art Spiegelspiel zu gestalten. Unser altes Mirror Game weiter zu programmieren fiehl dabei raus, da wir für uns festgestellt haben, dass dies keine neuen Herausforderungen mehr bietet und somit keinen guten Anreiz bot, da wir natürlich nur was programmieren wollen, was uns auch Spaß macht.
+Unser Ziel für die nächste Informatikstunde ist, dass wir uns auf ein Projekt geeinigt haben und vielleicht auch schon ein grobes Konzept haben. 
    </details>  <hr>
   
 
@@ -65,11 +66,17 @@ Weitergehend haben wir gebrainstormed, ob wir ein weiteres Spiel, etwas nützlic
   <summary>Genauer</summary> 
 Nach einigen Überlegungen haben wir uns schließlich für das Spiegelspiel entschieden. Das grobe Konzept funktioniert wie folgt:
 Zuerst wird ein Objekt aus einem "Sender" geschossen.
-Dies soll im Endeffekt einen Empfänger erreichen. In der Zwischenzeit müssen Spiegel so eingestellt werden, dass das Objekt an ihnen im korrekten Winkel abprallt und Hindernisse und ähnliches umgeht.
+Dies soll im Endeffekt einen Empfänger erreichen. In der Zwischenzeit müssen Spiegel so eingestellt werden, dass das Objekt an ihnen im korrekten Winkel abprallt und Hindernisse und ähnliches umgeht. 
+
+Somit gibt es mehrere Sachen die wir programmieren könnnen und müssen. Zum einen einen Laser, zum anderen Spiegel, welche den Laser reflektieren lassen. Dies wird nicht ganz einfach, aber ist auf jedenfall machbar. Wir haben dabei schon mehrere Ideen für die Umsetzung. Unter anderem könnten uns die Klonfunktionen und auch die Listen helfen. Zwei Sachen mit denen wir uns noch gar nicht auskennen, was also ganz Interessant werden kann.
+
+![Unbenannt](https://user-images.githubusercontent.com/42579285/54953790-5cd23e00-4f49-11e9-895f-1cb2e814ade3.png)
 
 Daraufhin haben wir begonnen diese Idee in Snap zu verwirklichen. Angefangen mit dem Aussehen des Startbildschirms und der Levelauswahl, haben wir die Hintergründe in paint.net designt.
 
 ![start2](https://user-images.githubusercontent.com/42579285/51544472-4c75e800-1e60-11e9-8329-fc8c23fafac6.png)
+
+Auch wenn die Bildqualtiät in Snap natürlich nicht die beste ist, ist es doch für unser Projekt vollkommen ausreichend, da für uns das Aussehen nicht an erster Stelle steht. Wie man schon am obigen Screenshot sehen kann haben wir einen Start Knopf eingebaut. Durch das Anklicken des Start Knopf soll man nun zur Levelauswahl kommen. Die Levelauswahl soll dabei in den nächsten Stunden entstehen und mindestens sechs Level enthalten vielleicht aber auch mehr.
 </details> <hr>
  
 
@@ -85,10 +92,9 @@ Nachdem wir vor den Ferien schon mit den Hintergründen begonnen haben, setzen w
         
 ![level 1 buis 8](https://user-images.githubusercontent.com/42579285/51106502-40e54a00-17ec-11e9-9229-18d016eaae20.png)
  
-Darüber hinaus haben wir begonnen die Levelauswahl funktionstüchtig zu machen.
+Darüber hinaus haben wir begonnen die Levelauswahl funktionstüchtig zu machen. Dies sieht noch ein wenig unübersichtlich aus vor allem dann, wenn wir alle acht Level fertiggestellt haben. Dafür müssen wir also noch eine Lösung suchen. Solange ist dies provisorisch und ist nur eine Notlösung, was seinen Zweck erfüllt. Auf die genaue und detaillierte Funktionsweise wird dann auch noch mal auf der Projektseite eingegangen.
 
 ![viel](https://user-images.githubusercontent.com/42579285/51544607-9a8aeb80-1e60-11e9-911f-b937c08e41e8.png)
-
 </details> <hr>
 
 ## 14.01.2019 (Vierte Stunde) <a name="vier"></a> 
@@ -100,18 +106,23 @@ Darüber hinaus haben wir begonnen die Levelauswahl funktionstüchtig zu machen.
   <summary>Genauer</summary>
 Anfangs haben wir unsere GitHub Seite auf den neusten Stand gebracht und mit Screenshots vervollständigt.
 Weitergehend haben wir Sprites für die einzelnen Spiegel, Hindernisse, den Empfänder und den Sender angelegt und teilweise mit passenden Costumes ausgestattet. Hierbei haben wir versucht das erste Level im Stil einer Märchenwelt zu gestalten. Der Sender wird dabei durch einen Kobold und der Empfänger durch einen Kessel dargestellt. 
-
+    
 ![sprites](https://user-images.githubusercontent.com/42579285/51106928-95d59000-17ed-11e9-8f96-b247adaba403.png)
+
+Damit hätten wir schon mal viel vom Aussehen. Trotzdem haben wir noch nicht viel programmiert. Dies möchten wir in den nächsten Stunden ändern. Deshalb haben wir uns vorgenommen uns noch mehr über Snap und seine Möglichkeiten zu informieren, denn uns ist aufgefallen, dass das wir anstreben nicht so einfach zu erreichen ist und auch zum Teil komplizierter ist. Bewegbare Spiegel, welche den Laser reflektieren lassen sollen, wollen wir spätestens in einem Monat fertig haben, was bedeutet, dass wir vielleicht auch etwas zu Hause machen müssen, um dieses Ziel zu erreichen. 
 </details> <hr>
 
 ## 15.01.2019 (Fünfte Stunde) <a name="fünf"></a> 
 
 *   Anfertigung von Leveldesign Skizzen
+*   Weiterbildung Snap
 
 <details>
   <summary>Genauer</summary>
-Diese Stunde haben wir begonnen die verschiedenen Level Inhalte mit Hilfe von paint.net visuell darzustellen. Wie auf den Screenshots zu sehen ist, haben wir auf Details vorerst verzichtet und uns auf den groben Aufbau konzentriert. 
+Diese Stunde haben wir begonnen die verschiedenen Levelinhalte mit Hilfe von paint.net visuell darzustellen. Wie auf den Screenshots zu sehen ist, haben wir auf Details vorerst verzichtet und uns auf den groben Aufbau konzentriert. 
 Im eigentlichen Spiel sollen die Level später als unterschiedliche Themenwelten gestalltet werden. Trotzdem haben wir es für sinnvoll erachtet diese vorerst zu vernachlässigen, der Übersicht zur Liebe.
+In der nächsten Stunde wollen wir die Skizzen zu Ende führen und uns dann wieder vollkommen dem programmieren widmen, was in letzter Zeit etwas zu kurz gekommen ist.
+Ich (Leo) habe mich in der Zwischenzeit auch noch etwas genauer mit Snap auseinandergesetzt und habe mittlerweile einen ganz guten Überblick, was so alle möglich ist und uns vielleicht auch helfen kann. Die schon vor einigen Stunden angesprochene Funktion "make a clon" kann uns dabei viel Arbeiter abnehmen und macht das ganze Projekt viel übersichtlicher. Das gleiche gilt für "make a list", was auch vieles vereinfacht und generell einfach besser zu handhaben ist.
 </details>
 
 <details>
@@ -127,13 +138,13 @@ Im eigentlichen Spiel sollen die Level später als unterschiedliche Themenwelten
 
 ## 21.01.2019 (Sechste Stunde) <a name="sechs"></a> 
 
-*   Anfertigung von Leveldesign Skizzen 
+*   Fertigstellung der Leveldesign Skizzen 
 
 <details>
   <summary>Genauer</summary> 
 Unsere Arbeit aus der letzten Stunde haben wir heute fortgeführt und die restlichen vier Level mit einem groben Aufbau versehen.
-Dabei war unser Ziel die Level möglichst mit einem steigenden Schwierigkeitsgrad zu versehen und damit eine größere Herausforderung für den Spieler  zu schaffen.
-Wir haben bisher nur sieben Level gestaltet, da wir uns das achte Level künstlerisch offen gelassen haben. Dieses sollte bestmöglichst den größten Schwierigkeitsgrad haben, um eine echte Herausforderung zu schaffen. Teda hat zudem vermerkt, dass es eine Möglichkeit wäre, das achte Level "unmöglich" zu machen. Diese Entscheidung halten wir uns allerdings bis kurz vor dem Ende offen.
+Dabei war unser Ziel die Level möglichst mit einem steigenden Schwierigkeitsgrad zu versehen und damit eine größere Herausforderung für den Spieler zu schaffen.
+Wir haben bisher nur sieben Level gestaltet, da wir uns das achte Level künstlerisch offen gelassen haben. Dieses sollte bestmöglichst den größten Schwierigkeitsgrad haben, um eine echte Herausforderung zu schaffen. Teda hat zudem vermerkt, dass es eine Möglichkeit wäre, das achte Level "unmöglich" zu machen. Diese Entscheidung halten wir uns allerdings bis kurz vor dem Ende offen und konzentrieren uns nun erstmal auf die anderen Level und ihre Umsetzung.
 </details>
 
 <details>
