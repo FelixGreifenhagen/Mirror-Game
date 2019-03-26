@@ -343,14 +343,20 @@ Den Vorteil den wir mittlerweile haben ist der, dass wir das Grundkonstrukt habe
 ## 26.03.2019 (Achtzehnte Stunde) <a name="achtzehn"></a>
  
 *  Level 5 beendet
- 
+*  Github Seite bearbeitet
+*  Zukunftspläne
+
 <details>
   <summary>Genauer</summary> 
-Dies ist unsere letzte Informatikstunde, welche hier in diesem Stundenblog dokumentiert wird. Wie in der letzten Stunde schon geplant, haben wir weiter an unseren Leveln gearbeitet. Dabei haben wir das fünfte Level bearbeitet und grob gesagt fertiggestellt. Auch hier dienten wieder unsere Skizzen als gute Vorbilder, wodurch wir uns nicht mehr auf das Aussehen konzentrieren mussten.
+Dies ist unsere letzte Informatikstunde, welche hier in diesem Stundenblog dokumentiert wird. Wie in der letzten Stunde schon geplant, haben wir weiter an unseren Leveln gearbeitet. Dabei haben wir das fünfte Level bearbeitet und grob gesagt fertiggestellt. Auch hier dienten wieder unsere Skizzen als gute Vorbilder, wodurch wir uns nicht mehr auf das Aussehen konzentrieren mussten. Der Laser fliegt noch nicht perfekt, doch die Spiegel, der Sender und Empfänger und auch die Hindernisse sind schon am richtigen Ort plaziert.
     
 ![Unbenannt](https://user-images.githubusercontent.com/42579285/55035389-244d6580-5018-11e9-9c98-7b5dd77fe9ab.png)  
 
+Des Weiteren habe wir noch ein wenig an unserer Github Seite gearbeitet, welche wir heute Abend abgeben müssen. So haben wir zum Beispiel die Screenshots mithilfe von paint noch ausgeschnitten, damit man sich noch besser auf das wesentliche konzentrieren kann.
 
+Das haben wir heute geschafft und ist damit das letzte, was wir hier noch dokumentieren werden. Trotzdem ist noch längst nicht alles geschafft. So fehlen uns noch 3 Level, welche wir zwar schon als Skizze haben doch noch in das Projekt übertragen werden müssen. Außerdem beinhalten diese bestimmte "extras", welche noch deutlich zeitaufwendiger werden. Hinzu kommen weitere Ideen, wie zum Beispiel Musik oder vielleicht doch noch die anfangs angedachten Hintergründe. Es gibt also auf jeden Fall noch was zu tun und generell gesehen wollen wir auch noch sehr gerne weiteres zu unserem Projekt hinzufügen. Doch leider wird dies keinen Platz mehr in diesem Stundenblog finden. Deshalb gibt es dafür noch ein paar Screenshots, welche unseren Projektzustand vom 26.3.2019 dokumentieren:
+
+![Unbenannt](https://user-images.githubusercontent.com/42579285/55036630-83f94000-501b-11e9-9254-a50c811a0b3d.png) ![Unbenannt](https://user-images.githubusercontent.com/42579285/55036702-b60aa200-501b-11e9-80a9-2ae6fe08c82a.png) ![Unbenannt](https://user-images.githubusercontent.com/42579285/55036780-f1a56c00-501b-11e9-832d-0aa6a24cfd20.png) ![Unbenannt](https://user-images.githubusercontent.com/42579285/55036830-1a2d6600-501c-11e9-98c5-600e1053c9c0.png)
 </details> <hr>
   
   
