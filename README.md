@@ -70,7 +70,6 @@
    ![comingsoonscript](https://user-images.githubusercontent.com/42579285/52297989-34cf5100-2982-11e9-9a12-f108b3f36a27.png)
    
    
-https://scratch.mit.edu/projects/239667020/#editor
 
 Plan: Spiegelspiel:
 -mehrere Level
