@@ -6,8 +6,16 @@
 * [Programm](#Programm)
 * [Aufbau](#Aufbau)
   * [Grundprinzip](#Grundprinzip)
-  * [Grundprinzip](#Grundprinzip)
+  * [Start und Ende](#Start und Ende)
+* [Wichtige Objekte](#Wichtige Objekte)
+  * [Spiegel](#Spiegel)
+  * [Laser](#Laser)
+  * [Sender](#Sender)
+  * [Empfänger](#Empfänger)
+  * [Hindernisse](#Hindernisse)
 * [Extras](#Extras)  
+  * [Anleitung](#Anleitung)
+  * [Münze](#Münze)
 * [Arbeitstagebuch](https://github.com/LeoandTeda/-/blob/master/Arbeitstagebuch.md) 
   
 ## Das Programm <a name="Programm"></a>
@@ -29,14 +37,14 @@ Um unser Projekt zu programmieren haben wir das Programm snap! benutzt, da dies 
 ![skizzespiegelgame](https://user-images.githubusercontent.com/42579285/51129379-9c362d00-182a-11e9-9421-87373cbd7f21.png)
 
 
-### Startbildschirm, Levelauswahl und Endbildschirm
+### Start und Ende <a name="Start und Ende"></a>
    
-   Das Spiel beginnt mit einem schlichten Startbildschirm, der nur den Namen des Spiels und einen Startbutton enthält.
+  Das Spiel beginnt mit einem schlichten Startbildschirm, der nur den Namen des Spiels und einen Startbutton enthält.
    
    ![startbildschirm](https://user-images.githubusercontent.com/42579285/52284035-f3c84400-2963-11e9-9d08-2bce29d4f387.png)
    
-   Dazu wird der folgende Block in das Script der Stage eingefügt, um alle Sprites bis auf den Startbutton zu hiden und das Costume des
-   Background Startbildschirm sichtbar zu machen.
+  Dazu wird der folgende Block in das Script der Stage eingefügt, um alle Sprites bis auf den Startbutton zu hiden und das Costume des
+  Background Startbildschirm sichtbar zu machen.
    
  ![startbildschirmskript](https://user-images.githubusercontent.com/42579285/52297876-fb96e100-2981-11e9-8181-663dbbb6b693.png)
 
