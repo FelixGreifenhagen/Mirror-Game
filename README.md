@@ -76,7 +76,61 @@ Um unser Projekt zu programmieren haben wir das Programm snap! benutzt, da dies 
   ![comingsoonscript](https://user-images.githubusercontent.com/42579285/52297989-34cf5100-2982-11e9-9a12-f108b3f36a27.png)
    
    
+## Wichtige Objekte <a name="Wichtige-Objekte"></a>
 
+### Die Spiegel <a name="Spiegel"></a>
+
+Die Spiegel spielen in diesem Projekt die Hauptrolle und geben dem Spiel auch seinen Namen. Dabei erfüllen sie mehrere Kriterien. Zum einen lassen sie sich per Maus bewegen, zum anderen reflektieren sie den Laserstrahl. Um dies zu verwirklichen wurden mehrere Funktionen aus Snap benutzt.
+
+Angefangen mit der Anzahl der Spiegel, welche erscheinen sollen. So wird bei Beginn jedes Levels die Anzahl der Spiegel auf fünf gesetzt.
+
+![Unbenannt](https://user-images.githubusercontent.com/42579285/55480872-7e09ed00-5621-11e9-8b3c-657ff11a92ad.png)
+
+Dabei werden wie im Screenshot sichtbar fünf Klone des Spiegels erstellt, undzwar mit der "create a clon of myself" Funktion. Wird nun ein Level ausgewählt, steigt die Level Variable auf den ausgewählten Wert. Ist nun zum Beispiel Level = 1 wird folgender Block aktiviert:
+
+![Unbenannt](https://user-images.githubusercontent.com/42579285/55481140-04263380-5622-11e9-9d8c-07e541fe8a41.png)
+
+Dieser legt fest, wie viele Spiegel im Level erscheinen. In diesem Fall sind es zwei Spiegel und die restlichen drei Stück werden mit dem befehl "delete this clone" gelöscht. Zudem werden die Richtung, sowie die X- und Y-Position jedes Spiegels in unterschiedlichen Listen gespeichert, was für den weiteren Verlauf noch wichtig ist. Solch ein Block wurde für jeweils alle acht Level erstellt und unterscheidet sich nur inder Anzahl der Spiegel.
+
+Die nächsten zwei großen Hauptblöcke sorgen dafür, dass sich jeder Spiegel individuell bewegen lässt:
+
+![Unbenannt](https://user-images.githubusercontent.com/42579285/55481891-9f6bd880-5623-11e9-8d2a-52fd7fc23fd3.png)
+![Unbenannt](https://user-images.githubusercontent.com/42579285/55481932-bca0a700-5623-11e9-8f60-a59bf7775e2c.png)
+
+Auch hier bietet Snap wieder mehrere Funktionen, welche zum gewünschten Ziel führen. Mithilfe von "when I start as a clone" wird jeder Spiegel einzelnd betrachtet. Hinzu kommen "touching.." Funktionen, welche feststellen, ob die Spiegel gerade durch die Maus bewegt werden sollen. Das ganze Verfahren ist dabei sehr kompliziert, damit sich die Spiegel richtig bewegen und lässt sich nur mithilfe mehrerer Variablen, sowie Listen, als auch Control Befehlen bewerkstelligen. Der ganze Block wird dabei von einer "forever" Klammer umspannt, da dies die ganze Zeit gilt und nicht nur einmal.
+
+Der gesamte Script Bereich der Spiegel wird dabei durch drei kleine Blöcke abgerundet, welche dafür sorgen, dass falls der Spieler das Level geschafft hat oder zurück zum Homescreen möchte, die einzelnen Spiegelklone wieder gelöscht werden mithilfe von "delete this clone".
+
+![Unbenannt](https://user-images.githubusercontent.com/42579285/55482910-cb885900-5625-11e9-8049-2dbc2813ccd7.png)
+
+### Der Laser <a name="Laser"></a>
+
+Das zweitwichtigste nach den Spiegeln ist der Laser, welcher durch die Spiegel reflektiert wird, an Hindernissen vorbeikommen muss und schlussendlich den Empfänger erreichen soll. Dies gestaltet sich in schwerer als gedacht, da es keine "Laser Funktion" gibt. Deshalb wird die Pen Funktion benutzt, welche eigentlich als Zeichentool gedacht ist.
+
+![Unbenannt](https://user-images.githubusercontent.com/42579285/55483238-79940300-5626-11e9-8f71-4335709f9234.png)
+![Unbenannt](https://user-images.githubusercontent.com/42579285/55483392-c4157f80-5626-11e9-85d4-7795fa0fe32e.png)
+
+Wie man schon an Hand der Screenshots sehen kann, besteht der Laser aus einem sehr großen Block und einem etwas kleineren. Der große Block ist der Rote Laser in Form einer roten Linie. So wird durch "set.." die Laser Länge und Größe festgelegt. Außerdem wird mit dem Block Laser-Level-Position die Startposition des Lasers für jedes Level festgelegt. Dies geht mithilfe der "Make a Block" Option in Snap:
+
+![Unbenannt](https://user-images.githubusercontent.com/42579285/55483782-9f6dd780-5627-11e9-96cd-83d25a1f5783.png)
+
+Dadurch wird der Block nicht noch länger. Danach wird ein Klon erschaffen, welche in die festgelegt Richtung fliegt, solange er nicht auf ein Hindernis, einen Spiegel oder den Spielrand trifft. Trifft er auf ein Hindernis oder den Spielrand verschwindet der Strich. Falls er aber auf einen Spiegel trifft wird der Strich reflektiert mithilfe von der Richtung des Spiegels, sowie des Striches. Erreicht der Strci sein Ziel, also "touching Empfänger" wird das Spiel geresetet und alle Daten aus den Listen werden durch "delete all.." gelöscht.
+
+Um nun aus dem Strich einen Laser zu machen, wird der zweite kleinere Block benötigt. Dieser ist auch ein Klon des Lasers ist aber weiss und startet 0,1 Sekunden verspätet. Dadurch folgt ein weisser Strich einem roten, was dazu führt, dass eine Art Laser entsteht. Dieser weisse Strich hat einen sehr ähnlichen Fuktionsaufbau, wie der rote und wird auch an den Spiegeln reflektiert.
+
+### Der Sender <a name="Sender"></a>
+
+
+### Der Empfänger <a name="Empfänger"></a>
+
+
+### Die Hindernisse <a name="Hindernisse"></a>
+
+
+
+## Extras <a name="Extras"></a>
+
+### Die Anleitung <a name="Anleitung"></a>
 
  
 
