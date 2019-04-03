@@ -11,11 +11,14 @@
   
 ## Das Programm <a name="Programm"></a>
   
-  ![image](https://user-images.githubusercontent.com/42579285/48960806-160b1200-ef70-11e8-82f8-a4498ecd9050.png)
-
+![image](https://user-images.githubusercontent.com/42579285/48960806-160b1200-ef70-11e8-82f8-a4498ecd9050.png)
+  
+Um unser Projekt zu programmieren haben wir das Programm snap! genutzt, da dies besonders für Anfänger gut geeignet ist, da keine Kenntnisse in einer Programmiersprache für die Verwendung vorausgesetzt werden. Snap vereinfacht dabei den Quellcode in Blöcke, welche je nach belieben zusammengeheftet werden können. Dabei werden Fehler anders als beim normalen programmieren schnell erkannt und es werden zudem viele Tipps sowie Anleitungen gegeben. Snap beruht dabei auf einer sehr visuellen Programmiersprache.
   
 ## Die Spielidee <a name="Spielidee"></a>
-
+   
+   
+## Der Aufbau <a name="Aufbau"></a>
 
 ### Das Grundprinzip <a name="Grundprinzip"></a>
 
@@ -24,10 +27,6 @@
    Das Spiel besteht aus acht Leveln. Die Schwierigkeitsstufe steigt im Verlauf des Spiels, in dem Hindernisse umgangen werden müssen
    und mehr Spiegel hinzugefügt werden. 
    Bei Abschließen eines Levels wird automatisch das nächste Level gestartet.
-   
-   
-## Der Aufbau <a name="Aufbau"></a>
-
 ![skizzespiegelgame](https://user-images.githubusercontent.com/42579285/51129379-9c362d00-182a-11e9-9421-87373cbd7f21.png)
 
 
