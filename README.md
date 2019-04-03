@@ -9,12 +9,12 @@
   * [Grundprinzip](#Grundprinzip)
 * [Arbeitstagebuch](https://github.com/LeoandTeda/-/blob/master/Arbeitstagebuch.md) 
   
-  ## Das Programm <a name="Programm"></a>
+## Das Programm <a name="Programm"></a>
   
   ![image](https://user-images.githubusercontent.com/42579285/48960806-160b1200-ef70-11e8-82f8-a4498ecd9050.png)
 
   
-  ## Die Spielidee <a name="Spielidee"></a>
+## Die Spielidee <a name="Spielidee"></a>
 
 
 ### Das Grundprinzip <a name="Grundprinzip"></a>
@@ -26,7 +26,7 @@
    Bei Abschließen eines Levels wird automatisch das nächste Level gestartet.
    
    
-   ## Der Aufbau <a name="Aufbau"></a>
+## Der Aufbau <a name="Aufbau"></a>
 
 ![skizzespiegelgame](https://user-images.githubusercontent.com/42579285/51129379-9c362d00-182a-11e9-9421-87373cbd7f21.png)
 
