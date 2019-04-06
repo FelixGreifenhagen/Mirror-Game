@@ -153,7 +153,7 @@ Die Größe des Senders wird bereits beim anklicken der grünen Fahne einheitlic
  Die Anleitung an sich ist ein weiterer Sprite, allerdings ohne costume, dass ausschließlich auf den gebroadcasteten Befehl "Anleitung" reagiert. Sobald dieser Empfangen wird positioniert sich die Anleitung und es wird mit dem Befehl "say..." gearbeitet. Da die komplette Anleitung nicht in ein Textfeld passt, muss noch eingebaut werden, dass bei anklickendes Textes der weitere Text sichtbar wird.
  Sobald wieder auf den Homebutton geklickt wird, wird der Spieler wie immer zur Levelauswahl zurückgeführt.
 
-### Die Münze
+### Die Münze  <a name="Münze"></a>
 
 Die Münze ist ein Extra, dass ausschließlich in Level 6 relevant wird. Somit ist das Script dieses Sprites auch dementsprechend einfacher. Wenn die Befehle "Reset" oder "Gamestart" erhalten werden, ist die Münze nicht sichtbar. Nur wenn die Variable "Level" auf sechs gesetzt wurde, also bei Beginn des sechsten Levels wird die Poisition der Münze festgelegt und sichtbar gemacht. Diese bleibt sichtbar, bis sie von rot, also dem Laserstrahl berührt wird. Ist die Variable nicht gleich sechs, so bleibt die Münze nicht sichtbar.
 
