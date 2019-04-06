@@ -62,6 +62,7 @@ Um unser Projekt zu programmieren haben wir das Programm snap! benutzt, da dies 
   eine Nachricht mit dem jeweiligen Levelnamen gebroadcastet. Im Script der Stage wird der zugehörige Block aktiviert, der die
   Levelbuttons hidet und die Spiegel, Hindernisse, den Sender und den Empfänger sichtbar werden lässt. Zusätzlich wird auch der
   Background der Stage zu Empty geändert.
+  
   Da diese Auflistung allerdings sehr Platzeinnehmend ist, ist es geeigneter die einzelnen Befehle in Blocks einzuteilen. 
   
   ![Informatik](https://user-images.githubusercontent.com/42579285/55668991-0e3e7100-5872-11e9-9c7a-7d05f8d2ca16.png)
