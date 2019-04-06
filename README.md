@@ -48,7 +48,6 @@ Um unser Projekt zu programmieren haben wir das Programm snap! benutzt, da dies 
    
  ![startbildschirmskript](https://user-images.githubusercontent.com/42579285/52297876-fb96e100-2981-11e9-8181-663dbbb6b693.png)
 
-   
   Beim Anklicken des Startbuttons wird die Größe angepasst und der Befehl "Start" gebroadcasted.
    
   Im Script der Stage wird beim Empfangen dieses Befehls der Wechsel zum Costume Levelauswahl angefordert.
@@ -63,6 +62,12 @@ Um unser Projekt zu programmieren haben wir das Programm snap! benutzt, da dies 
   eine Nachricht mit dem jeweiligen Levelnamen gebroadcastet. Im Script der Stage wird der zugehörige Block aktiviert, der die
   Levelbuttons hidet und die Spiegel, Hindernisse, den Sender und den Empfänger sichtbar werden lässt. Zusätzlich wird auch der
   Background der Stage zu Empty geändert.
+  Da diese Auflistung allerdings sehr Platzeinnehmend ist, ist es geeigneter die einzelnen Befehle in Blocks einzuteilen. 
+  
+  ![Informatik](https://user-images.githubusercontent.com/42579285/55668991-0e3e7100-5872-11e9-9c7a-7d05f8d2ca16.png)
+
+  ![Informatik](https://user-images.githubusercontent.com/42579285/55668982-e64f0d80-5871-11e9-88d7-9d5110dc3a52.png)
+
    
   ![levelscript2](https://user-images.githubusercontent.com/42579285/52295635-a0162480-297c-11e9-9d6b-22289dc0407f.png)
    
