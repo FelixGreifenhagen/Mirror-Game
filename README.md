@@ -123,6 +123,9 @@ Um nun aus dem Strich einen Laser zu machen, wird der zweite kleinere Block ben�
 Eine essenzielle Rolle spielt auch der Sender, auch wenn es hauptsächlich zur Orientierung im Spiel dient. Bei empfangen des Befehls "Gamestart" ist es entscheident in welchem Level sich der Spieler befindet. Für jedes Level ist eine Position des Senders vorgesehen, die jeweils mit dem Laser, der aus dem Sender starten soll, übereinstimmt. Nicht nur die Position, sondern auch die Ausrichtung ist hierbei wichtig, die ebenso individuell auf das Leveldesign angepasst wird.
 Die Größe des Senders wird bereits beim anklicken der grünen Fahne einheitlich eingestellt. Zusätzlich wird im gleichen Schritt die Variable "Level" auf null gesetzt, was auch für viele weitere Sprites wichtig ist. 
 
+![Informatik](https://user-images.githubusercontent.com/42579285/55668937-f9ada900-5870-11e9-96cd-ca6bccf91771.png)
+
+
 ### Der Empfänger <a name="Empfänger"></a>
 
 
