@@ -132,7 +132,15 @@ Um nun aus dem Strich einen Laser zu machen, wird der zweite kleinere Block ben�
 
 ### Die Anleitung <a name="Anleitung"></a>
 
+ Um dem Spieler einen groben Überblick über das Spielprinzip zu ermöglichen, wird eine kurze Spielanleitung eingefügt. 
+ Die Möglichkeit diese einzusehen besteht, wenn sich der Spieler auf der Levelübersicht befindet. 
+ Dafür wird ein Sprite mit einem Fragezeichen costume angelegt (Hilfe!). Dieses hat jeglich die Funktion bei erhalten der Nachricht
+ "Start" an die gewünsche position zu gehen und bei anklicken des Sprites "Anleitung" zu broadcasten.  
  
+ ![Informatik](https://user-images.githubusercontent.com/42579285/55668557-1398bd00-586c-11e9-922e-787166cfb9f2.png)
+
+ Die Anleitung an sich ist ein weiterer Sprite, allerdings ohne costume, dass ausschließlich auf den gebroadcasteten Befehl Anleitung reagiert. Sobald dieser Empfangen wird positioniert sich die Anleitung und es wird mit dem Befehl "say..." gearbeitet. Da die Anleitung nicht in ein Textfeld passt, muss noch eingebaut werden, dass bei anklickendes Textes der weitere Text sichtbar wird.
+ Sobald wieder auf den Homebutton geklickt wird, wird der Spieler wie immer zur levelauswahl zurückgeführt.
 
 
 #### [Zum Arbeitstagebuch](https://github.com/LeoandTeda/Mirror-Game/blob/master/Arbeitstagebuch.md)
