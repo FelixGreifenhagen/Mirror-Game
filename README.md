@@ -116,10 +116,12 @@ Wie man schon an Hand der Screenshots sehen kann, besteht der Laser aus einem se
 
 Dadurch wird der Block nicht noch länger. Danach wird ein Klon erschaffen, welche in die festgelegt Richtung fliegt, solange er nicht auf ein Hindernis, einen Spiegel oder den Spielrand trifft. Trifft er auf ein Hindernis oder den Spielrand verschwindet der Strich. Falls er aber auf einen Spiegel trifft wird der Strich reflektiert mithilfe von der Richtung des Spiegels, sowie des Striches. Erreicht der Strci sein Ziel, also "touching Empfänger" wird das Spiel geresetet und alle Daten aus den Listen werden durch "delete all.." gelöscht.
 
-Um nun aus dem Strich einen Laser zu machen, wird der zweite kleinere Block benötigt. Dieser ist auch ein Klon des Lasers ist aber weiss und startet 0,1 Sekunden verspätet. Dadurch folgt ein weisser Strich einem roten, was dazu führt, dass eine Art Laser entsteht. Dieser weisse Strich hat einen sehr ähnlichen Fuktionsaufbau, wie der rote und wird auch an den Spiegeln reflektiert.
+Um nun aus dem Strich einen Laser zu machen, wird der zweite kleinere Block benötigt. Dieser ist auch ein Klon des Lasers ist aber weiss und startet 0,1 Sekunden verspätet. Dadurch folgt ein weisser Strich einem roten, was dazu führt, dass eine Art Laser entsteht und nicht ein durchgehender roter Strich. Dieser weisse Strich hat einen sehr ähnlichen Fuktionsaufbau, wie der rote und wird auch an den Spiegeln reflektiert.
 
 ### Der Sender <a name="Sender"></a>
 
+Eine essenzielle Rolle spielt auch der Sender, auch wenn es hauptsächlich zur Orientierung im Spiel dient. Bei empfangen des Befehls "Gamestart" ist es entscheident in welchem Level sich der Spieler befindet. Für jedes Level ist eine Position des Senders vorgesehen, die jeweils mit dem Laser, der aus dem Sender starten soll, übereinstimmt. Nicht nur die Position, sondern auch die Ausrichtung ist hierbei wichtig, die ebenso individuell auf das Leveldesign angepasst wird.
+Die Größe des Senders wird bereits beim anklicken der grünen Fahne einheitlich eingestellt. Zusätzlich wird im gleichen Schritt die Variable "Level" auf null gesetzt, was auch für viele weitere Sprites wichtig ist. 
 
 ### Der Empfänger <a name="Empfänger"></a>
 
@@ -144,7 +146,7 @@ Um nun aus dem Strich einen Laser zu machen, wird der zweite kleinere Block ben�
 
 ### Die Münze
 
-Die Münze ist ein Extra, dass ausschließlich in Level 6 relevant wird. Somit ist das Script dieses Sprites auch dementsprechend einfacher. Wenn die Befehle "Reset" oder "Gamestart" erhalten werden, ist die Münze nicht sichtbar. Nur wenn die Variable "Level" auf sechs gesetzt wurde, also bei Beginn des sechsten Levels wird die Poisition der Münze festgelegt und sichtbar gemacht. Diese bleibt sichtbar, bis sie von rot, also dem Laserstrahl berührt wird. Ist die Variable nicht gleichsechs, so bleibt die Münze nicht sichtbar.
+Die Münze ist ein Extra, dass ausschließlich in Level 6 relevant wird. Somit ist das Script dieses Sprites auch dementsprechend einfacher. Wenn die Befehle "Reset" oder "Gamestart" erhalten werden, ist die Münze nicht sichtbar. Nur wenn die Variable "Level" auf sechs gesetzt wurde, also bei Beginn des sechsten Levels wird die Poisition der Münze festgelegt und sichtbar gemacht. Diese bleibt sichtbar, bis sie von rot, also dem Laserstrahl berührt wird. Ist die Variable nicht gleich sechs, so bleibt die Münze nicht sichtbar.
 
 ![Informatik](https://user-images.githubusercontent.com/42579285/55668684-80608700-586d-11e9-9891-1857870ae293.png)
 
