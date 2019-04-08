@@ -134,10 +134,17 @@ Die Größe des Senders wird bereits beim anklicken der grünen Fahne einheitlic
 
 ### Der Empfänger <a name="Empfänger"></a>
 
+Der Empfänger ist ähnlich aufgebaut wie der Sender. Auch hier gibt es für jedes Level eine vorher festgelegte Position mit passender Ausrichtung. Dies geschieht ebenso bei empfangen des Befehls "Gamestart".
+
+![Informatik](https://user-images.githubusercontent.com/42579285/55752761-04bb3180-5a49-11e9-8ae4-8f4d924a6d22.png)
 
 ### Die Hindernisse <a name="Hindernisse"></a>
 
+Die Hindernisse 
 
+![image](https://user-images.githubusercontent.com/42579285/55752984-8f039580-5a49-11e9-98d5-ca60a36c587d.png)
+
+![Informatik](https://user-images.githubusercontent.com/42579285/55753042-af335480-5a49-11e9-836d-c9da6a52dbed.png)
 
 ## Extras <a name="Extras"></a>
 
