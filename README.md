@@ -74,7 +74,7 @@ Um unser Projekt zu programmieren haben wir das Programm snap! benutzt, da dies 
    
   ![comingsoonscript](https://user-images.githubusercontent.com/42579285/52297989-34cf5100-2982-11e9-9a12-f108b3f36a27.png)
   
-  Sobald einer der Levelbuttons angeklickt wird wird neben dem Levelnamen auch der Befehl Gamestart gebroadcastet. Dieser hat zur Folge, dass das eigentliche Spiel, je nach Level mit einem anderen Design gestartet wird. 
+  Sobald einer der Levelbuttons angeklickt wird, wird neben dem Levelnamen auch der Befehl Gamestart gebroadcastet. Dieser hat zur Folge, dass das eigentliche Spiel, je nach gebroadcasteten Levelnamen, mit einem anderen Design gestartet wird. 
    
   Der wohl entscheidenste Teil des Blocks ist allerdings, dass die Variable Level auf die jeweilige Zahl des Levels gesetzt wird.
   ![Informatik](https://user-images.githubusercontent.com/42579285/55954865-1e829180-5c60-11e9-93c1-b89062274109.png)
