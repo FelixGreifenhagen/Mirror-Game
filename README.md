@@ -83,6 +83,7 @@ Um unser Projekt zu programmieren haben wir das Programm snap! benutzt, da dies 
    
 ## Wichtige Objekte <a name="Wichtige-Objekte"></a>
 
+
 ### Die Spiegel <a name="Spiegel"></a>
 
 Die Spiegel spielen in diesem Projekt die Hauptrolle und geben dem Spiel auch seinen Namen. Dabei erfüllen sie mehrere Kriterien. Zum einen lassen sie sich per Maus bewegen, zum anderen reflektieren sie den Laserstrahl. Um dies zu verwirklichen wurden mehrere Funktionen aus Snap benutzt.
