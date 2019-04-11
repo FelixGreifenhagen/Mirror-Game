@@ -68,7 +68,6 @@ Um unser Projekt zu programmieren haben wir das Programm snap! benutzt, da dies 
   ![Informatik](https://user-images.githubusercontent.com/42579285/55668991-0e3e7100-5872-11e9-9c7a-7d05f8d2ca16.png)
 
   ![Informatik](https://user-images.githubusercontent.com/42579285/55668982-e64f0d80-5871-11e9-88d7-9d5110dc3a52.png)
-
    
   ![levelscript2](https://user-images.githubusercontent.com/42579285/52295635-a0162480-297c-11e9-9d6b-22289dc0407f.png)
    
