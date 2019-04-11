@@ -69,18 +69,16 @@ Um unser Projekt zu programmieren haben wir das Programm snap! benutzt, da dies 
 
   ![Informatik](https://user-images.githubusercontent.com/42579285/55668982-e64f0d80-5871-11e9-88d7-9d5110dc3a52.png)
    
-  ![levelscript2](https://user-images.githubusercontent.com/42579285/52295635-a0162480-297c-11e9-9d6b-22289dc0407f.png)
-   
-  Außerdem wird neben dem Levelnamen der Befehl Gamestart gebroadcastet. Dieser hat zur Folge, dass das eigentliche Spiel, je nach
-  Level mit einem anderen Design gestartet wird. 
-   
-  Der wohl entscheidenste Teil des Blocks ist allerdings, dass die Variable Level auf die jeweilige Zahl des Levels gesetzt wird.
    
   Wird bei der Levelauswahl der Button "coming soon" geklickt, wird der Spieler zurück zum Startbildschirm geführt.
    
   ![comingsoonscript](https://user-images.githubusercontent.com/42579285/52297989-34cf5100-2982-11e9-9a12-f108b3f36a27.png)
+  
+  Sobald einer der Levelbuttons angeklickt wird wird neben dem Levelnamen auch der Befehl Gamestart gebroadcastet. Dieser hat zur Folge, dass das eigentliche Spiel, je nach Level mit einem anderen Design gestartet wird. 
    
-   
+  Der wohl entscheidenste Teil des Blocks ist allerdings, dass die Variable Level auf die jeweilige Zahl des Levels gesetzt wird.
+  ![Informatik](https://user-images.githubusercontent.com/42579285/55954865-1e829180-5c60-11e9-93c1-b89062274109.png)
+ 
 ## Wichtige Objekte <a name="Wichtige-Objekte"></a>
 
 
