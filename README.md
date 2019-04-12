@@ -142,8 +142,7 @@ Der Empfänger ist ähnlich aufgebaut wie der Sender. Auch hier gibt es für jed
 
 ### Die Hindernisse <a name="Hindernisse"></a>
 
-Für die Hindernisse werden zwei weitere Sprites angelegt, die wie der Sender und der Empfänger aufgebaut sind. Da in den ersten Leveln nicht immer mehrere Hindernisse benötigt werden, wird das zweite Hindernis bei diesen gehidet. Eine Besonderheit gibt es bei Level Acht: Da sich das 
-
+Für die Hindernisse werden zwei weitere Sprites angelegt, die wie der Sender und der Empfänger aufgebaut sind. Da in den ersten Leveln nicht immer mehrere Hindernisse benötigt werden, wird das zweite Hindernis bei diesen gehidet. Eine Besonderheit gibt es bei Level Sieben und Acht: Da sich die Hindernisse nicht fest an einer Position befinden, sondern als zusätzlich erschwerenden Faktor dienen sollen, indem sie sich bewegen, muss bei diesen Leveln auch im Script etwas hinzugefügt werden. Zusätzlich zu dem "normalen" Block muss ein Block hinzugefügt werden, der veranlasst, dass das Hindernis sich immer eine beliebige Anzahl an Schritten in eine Richtung bewegt, bis eine Wand erreicht wird, an der das Hindernis abprallt und sich wieder in die entgegengesetzte Richtung bewegt. 
 
 ![Informatik](https://user-images.githubusercontent.com/42579285/55753042-af335480-5a49-11e9-836d-c9da6a52dbed.png)
 
