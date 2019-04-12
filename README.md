@@ -17,6 +17,8 @@
   * [Anleitung](#Anleitung)
   * [Münze](#Münze)
   
+* [Endergebnis](#Endergebnis)  
+  
   
 * [Arbeitstagebuch](https://github.com/LeoandTeda/-/blob/master/Arbeitstagebuch.md) 
   
