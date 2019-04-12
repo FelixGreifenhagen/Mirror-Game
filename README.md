@@ -230,4 +230,4 @@ Die Münze ist ein Extra, dass ausschließlich in Level 6 relevant wird. Somit i
 
 
   </details>
-#### [Zum Arbeitstagebuch](https://github.com/LeoandTeda/Mirror-Game/blob/master/Arbeitstagebuch.md)
+### [Zum Arbeitstagebuch](https://github.com/LeoandTeda/Mirror-Game/blob/master/Arbeitstagebuch.md)
