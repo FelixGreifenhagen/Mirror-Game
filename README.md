@@ -24,7 +24,7 @@
   
 Um unser Projekt zu programmieren haben wir das Programm snap! benutzt, da dies besonders für Anfänger gut geeignet ist, da keine Kenntnisse in einer Programmiersprache für die Verwendung vorausgesetzt werden. Snap vereinfacht dabei den Quellcode in Blöcke, welche je nach belieben zusammengeheftet werden können. Dabei werden Fehler anders als beim normalen programmieren schnell erkannt und es werden zudem viele Tipps sowie Anleitungen gegeben. Snap beruht dabei auf einer sehr visuellen Programmiersprache.
   
-   
+    
 ## Der Aufbau <a name="Aufbau"></a>
 
 ### Das Grundprinzip <a name="Grundprinzip"></a>
