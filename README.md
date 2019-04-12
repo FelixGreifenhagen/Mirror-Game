@@ -24,7 +24,7 @@
   
 Um unser Projekt zu programmieren haben wir das Programm snap! benutzt, da dies besonders für Anfänger gut geeignet ist, da keine Kenntnisse in einer Programmiersprache für die Verwendung vorausgesetzt werden. Snap vereinfacht dabei den Quellcode in Blöcke, welche je nach belieben zusammengeheftet werden können. Dabei werden Fehler anders als beim normalen programmieren schnell erkannt und es werden zudem viele Tipps sowie Anleitungen gegeben. Snap beruht dabei auf einer sehr visuellen Programmiersprache.
   
-    
+   
 ## Der Aufbau <a name="Aufbau"></a>
 
 ### Das Grundprinzip <a name="Grundprinzip"></a>
@@ -156,6 +156,11 @@ Für die Hindernisse werden zwei weitere Sprites angelegt, die wie der Sender un
 
  Die Anleitung an sich ist ein weiterer Sprite, allerdings ohne costume, dass ausschließlich auf den gebroadcasteten Befehl "Anleitung" reagiert. Sobald dieser Empfangen wird positioniert sich die Anleitung und es wird mit dem Befehl "say..." gearbeitet. Da die komplette Anleitung nicht in ein Textfeld passt, muss noch eingebaut werden, dass bei anklickendes Textes der weitere Text sichtbar wird.
  Sobald wieder auf den Homebutton geklickt wird, wird der Spieler wie immer zur Levelauswahl zurückgeführt.
+ 
+ ![Informatik](https://user-images.githubusercontent.com/42579285/56032455-8699ac00-5d22-11e9-84c7-f5749a6f0894.png)
+ 
+ ![Informatik](https://user-images.githubusercontent.com/42579285/56032487-96b18b80-5d22-11e9-9cf0-555a3d4d6252.png)
+
 
 ### Die Münze  <a name="Münze"></a>
 
