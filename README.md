@@ -173,47 +173,55 @@ Die Münze ist ein Extra, dass ausschließlich in Level 6 relevant wird. Somit i
 <details>
   <summary>Level 1-8</summary> 
  
+## Level 1
+ 
+ 
  ![Informatik](https://user-images.githubusercontent.com/42579285/56032687-150e2d80-5d23-11e9-8276-8d329e3cd6b8.png)
  
  <hr>
  
+## Level 2
  
  
  ![Informatik](https://user-images.githubusercontent.com/42579285/56032742-2820fd80-5d23-11e9-9fe9-836ef0176ef5.png)
 
 <hr>
 
+## Level 3
 
 
  ![Informatik](https://user-images.githubusercontent.com/42579285/56032765-3707b000-5d23-11e9-8db9-d24c0a047ac2.png)
 
 <hr>
  
- 
+## Level 4
+
  
  ![Informatik](https://user-images.githubusercontent.com/42579285/56032795-4981e980-5d23-11e9-811e-cf42160f2336.png)
 
 <hr>
 
-
+## Level 5
 
  ![Informatik](https://user-images.githubusercontent.com/42579285/56032821-5a325f80-5d23-11e9-83e2-cf25fe6b9a48.png)
 
 <hr>
 
+## Level 6
 
 
  ![Informatik](https://user-images.githubusercontent.com/42579285/56032843-6cac9900-5d23-11e9-82a7-f644bba34c77.png)
 
 <hr>
 
+## Level 7
 
 
  ![Informatik](https://user-images.githubusercontent.com/42579285/56032882-88b03a80-5d23-11e9-8bd1-b0a6c7646571.png)
 
 <hr>
 
-
+## Level 8
 
  ![Informatik](https://user-images.githubusercontent.com/42579285/56032923-a1205500-5d23-11e9-98a8-787ef420e45d.png)
 
